@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 ```
 
- 3. The CSS below adds a default style to the apply now button. Add the following snippet to  the website’s styles.
+* The CSS below adds a default style to the apply now button. Add the following snippet to  the website’s styles.
 
 ```css
 #devfolio-apply-now {
