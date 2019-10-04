@@ -1,6 +1,6 @@
 # A: University Hackathons On-boarding
 
-1. Read through the terms of engagement in [Appendix B](https://paper.dropbox.com/doc/Organizer-Guide-Final-AlT3AP8Q6N_8XAFyKy0HVqmgAg-3JepEfZKESPQeiIjxuSbi#:uid=456290694918347088149875&h2=B:-University-Hackathons-Terms) and ensure the event you’re planning complies with the spirit and ideals of a Devfolio powered hackathon.
+1. Read through the terms of engagement in [Appendix B](b-university-hackathons-terms-of-engagement.md) and ensure the event you’re planning complies with the spirit and ideals of a Devfolio powered hackathon.
 2. Sign up for a Devfolio account if you haven’t done so already and check out the platform.
 3. Click on the ‘Organizer’s dashboard’ option in the profile dropdown on the top left corner on your Devfolio dashboard, click on ‘Organize New’ button and fill in details about your hackathon.
 4. Drop an email to community@devfolio.co briefly introducing your hackathon, attaching your website URL and sponsorship deck along.
