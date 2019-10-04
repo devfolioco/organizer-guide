@@ -6,7 +6,7 @@
   * [Why Devfolio?](introduction/why-devfolio.md)
   * [Devfolio for Businesses](introduction/devfolio-for-businesses.md)
   * [Devfolio for University students](introduction/devfolio-for-universities-students.md)
-  * [Contact US](introduction/contact-us.md)
+  * [Contact us](introduction/contact-us.md)
 * [Pre-Hackathon](pre-hackathon/README.md)
   * [Planning scale/scope and timeline for your event](pre-hackathon/planning-scale-scope-and-timeline-for-your-event.md)
   * [Arranging hackathon basics: Venue/Food/WiFi](pre-hackathon/arranging-hackathon-basics-venue-food-wifi/README.md)
