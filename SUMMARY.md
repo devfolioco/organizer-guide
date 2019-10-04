@@ -43,4 +43,5 @@
   * [‘Apply with Devfolio’ button integration](appendix/c-apply-with-devfolio-button-integration.md)
   * [Sponsor Announcement Content](appendix/d-sponsor-announcement-content.md)
   * [Brand Assets](appendix/e-brand-assets.md)
+* [Contributors](contributors.md)
 
