@@ -1,0 +1,6 @@
+# Food
+
+For the long hours, they’ll be spending hacking, hackers deserve access to **nutritious** and **tasty** food. Don’t do Pizzas and Cola! No shortcuts here, please. Talk to local catering or restaurant services to finalize on a menu that will cater to a wide variety of tastes and dietary preferences. It’s usually a safe bet to go in for **non-spicy vegetarian food** only, in the **Indian subcontinent**, as it’s what a majority of the hackers will prefer and will save logistics hassle.   
+You would need to provide **4 meals for a full day of hacking** - Breakfast, Lunch, High Tea, and Dinner. Arrange for a snacking session at midnight or keep for supplies like milk, cereal, bread, jam/butter. Also, keep snacks like biscuits, potato wafers, and chocolates for times of cravings.   
+Unsurprisingly, a **regular supply of caffeine** will be required throughout the event, so make sure you arrange for a coffee dispenser. In India, having the option of tea would be appreciated. Energy drink companies like **Red Bull** and **Monster Energy** usually are happy to provide cans of their product at no cost in exchange for marketing deliverables. Do remember to advise hackers about **moderating their caffeine intake** through the event. 
+
