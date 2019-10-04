@@ -1,4 +1,4 @@
-# D: Sponsor Announcement Content
+# Sponsor Announcement Content
 
 Note: Tag Devfolio and Matic handles on relevant platforms while posting and mention tier as well.
 

@@ -1,4 +1,4 @@
-# C: ‘Apply with Devfolio’ button integration
+# ‘Apply with Devfolio’ button integration
 
 Key \(placeholder:'myhackathonkey’\) will be provided by the community manager.  
 The button requires SSL to be setup on the hackathon website to work as expected. 

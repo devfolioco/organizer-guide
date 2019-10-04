@@ -1,4 +1,4 @@
-# E: Brand Assets
+# Brand Assets
 
 Here are the links to download logo assets, please use the dark version on dark backgrounds:
 
