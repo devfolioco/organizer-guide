@@ -1,14 +1,11 @@
 # ‘Apply with Devfolio’ button integration
 
-Key \(placeholder:'myhackathonkey’\) will be provided by the community manager.  
+A unique key `myhackathonkey` will be provided by the community manager.  
 The button requires SSL to be setup on the hackathon website to work as expected. 
 
 The following article can be referred for the purpose: [https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 
-
-
-**The Setup**  
-
+### **The Setup**
 
 * Add a button element in your markup. 
 
