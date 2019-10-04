@@ -1,7 +1,9 @@
 # B: University Hackathons - Terms of Engagement
 
 **Terms of Engagement**  
-Here’s are the terms of engagement between Devfolio and the university hackathon organizers which will be mutually agreed upon and formalised through a digitally signed MoU.  
+Here’s are the terms of engagement between Devfolio and the university hackathon organizers which will be mutually agreed upon and formalised through a digitally signed MoU.
+
+  
 **Deliverables from Hackathon Organisers**  
 
 
