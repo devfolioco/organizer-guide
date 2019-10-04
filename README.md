@@ -8,3 +8,9 @@ description: Hosting a great hackathon with support from Devfolio.
 
 {% page-ref page="pre-hackathon/" %}
 
+{% page-ref page="during-hackathon/" %}
+
+{% page-ref page="post-hackathon/" %}
+
+{% page-ref page="appendix/" %}
+
