@@ -5,7 +5,7 @@ Below is the bug report template to provide us the details in a structured manne
 
 * The device and OS on which the bug occurred
 * The browser used along with browser version
-* Devfolio username / email id
+* Devfolio `username` / `email id`
 * Date and time at which it occurred \(optional\)
 * Steps to reproduce \( optional \)
 * Screenshots / Recording if available with the Console/Network tab in developer tools open \( you can use [https://www.getcloudapp.com/](https://slack-redir.net/link?url=https%3A%2F%2Fwww.getcloudapp.com%2F) for this\)

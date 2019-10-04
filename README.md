@@ -14,5 +14,5 @@ description: Hosting a great hackathon with support from Devfolio.
 
 {% page-ref page="appendix/" %}
 
-{% page-ref page="contributors.md" %}
+{% page-ref page="appendix/contributors.md" %}
 
