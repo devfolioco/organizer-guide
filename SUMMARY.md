@@ -34,7 +34,7 @@
   * [Check-ins on Devfolio](during-hackathon/check-ins-on-devfolio.md)
   * [Submissions on Devfolio](during-hackathon/submissions-on-devfolio.md)
   * [Suggested Judging process](during-hackathon/suggested-judging-process.md)
-* [Post Hackathon](post-hackathon/README.md)
+* [Post-Hackathon](post-hackathon/README.md)
   * [Collecting feedback on Devfolio](post-hackathon/collecting-feedback-on-devfolio.md)
   * [Wrap-up to-do’s](post-hackathon/wrap-up-to-dos.md)
 * [Appendix](appendix/README.md)
