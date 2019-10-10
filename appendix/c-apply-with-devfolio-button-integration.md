@@ -114,7 +114,9 @@ handleLoad = () => {
 
 ## Troubleshooting
 
-#### Error : CORS issue
+#### Error : No 'Access-Control-Allow-Origin' header;
+
+![CORS issue](../.gitbook/assets/image%20%281%29.png)
 
 > If you get the CORS issue in browser ask the organizer to whitelist the hackathon domain.
 
