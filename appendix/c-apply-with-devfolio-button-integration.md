@@ -19,10 +19,15 @@ viewBox="0 0 115.46 123.46" style="height:24px;width:24px;margin-right:8px">
 
 * Add the below script preferably before the closing body tag.
 
+{% tabs %}
+{% tab title="JavaScript" %}
+{% code-tabs %}
+{% code-tabs-item title="apply-snippet.js" %}
 ```javascript
 document.addEventListener('DOMContentLoaded', function () {
     let devfolioOptions = {
-        buttonSelector: '#devfolio-apply-now',
+        buttonSelector: '#devf
+olio-apply-now',
         key: 'myhackathonkey',
     }
 
@@ -41,9 +46,40 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+
+{% tab title="ReactJS" %}
+{% code-tabs %}
+{% code-tabs-item title="react-apply-snippet.jsx" %}
+```jsx
+componentDidMount = () => {
+  window.onload = this.loadApplyNowScript();
+};
+
+loadApplyNowScript = () => {
+  const script = document.createElement('script');
+  script.src = 'https://apply.devfolio.co';
+  script.async = true;
+  document.body.appendChild(script);
+
+  script.onload = this.handleLoad;
+};
+
+handleLoad = () => {
+  new Devfolio({ key: 'myhackathonkey', buttonSelector: '#devfolio-apply-now' });
+};
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 * The CSS below adds a default style to the apply now button. Add the following snippet to  the website’s styles.
 
+{% code-tabs %}
+{% code-tabs-item title="apply-snippet.css" %}
 ```css
 #devfolio-apply-now {
     -ms-flex-align: center;
@@ -73,6 +109,8 @@ document.addEventListener('DOMContentLoaded', function () {
     background-color: #2954BF !important;
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 
 
