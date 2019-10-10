@@ -112,5 +112,9 @@ handleLoad = () => {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+## Troubleshooting
 
+#### Error : CORS issue
+
+> If you get the CORS issue in browser ask the organizer to whitelist the hackathon domain.
 
