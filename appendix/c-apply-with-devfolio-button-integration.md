@@ -118,5 +118,5 @@ handleLoad = () => {
 
 ![CORS issue](../.gitbook/assets/image%20%281%29.png)
 
-> If you get the CORS issue in browser ask the organizer to whitelist the hackathon domain.
+If you get the CORS issue in browser please ask the community manager to whitelist the hackathon domain. 
 
