@@ -32,7 +32,7 @@
   * [Office hours, peer learning sessions and reporting issues](pre-hackathon/office-hours-peer-learning-sessions-and-reporting-issues.md)
 * [During Hackathon](during-hackathon/README.md)
   * [Check-ins on Devfolio](during-hackathon/check-ins-on-devfolio.md)
-  * [Submissions on Devfolio](during-hackathon/submissions-on-devfolio.md)
+  * [Project Submissions on Devfolio](during-hackathon/submissions-on-devfolio.md)
   * [Suggested Judging process](during-hackathon/suggested-judging-process.md)
 * [Post-Hackathon](post-hackathon/README.md)
   * [Collecting feedback on Devfolio](post-hackathon/collecting-feedback-on-devfolio.md)
