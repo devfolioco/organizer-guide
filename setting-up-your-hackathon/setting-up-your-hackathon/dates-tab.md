@@ -2,7 +2,7 @@
 
 Fill in the relevant dates as per your hackathon's schedule.
 
-![](../.gitbook/assets/dates.gif)
+![](../../.gitbook/assets/dates.gif)
 
 | Date Title | Description | Can be updated later? |
 | :--- | :--- | :--- |

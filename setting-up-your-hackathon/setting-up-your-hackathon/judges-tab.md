@@ -4,7 +4,7 @@ Showcase the stellar line-up of judges you have at your hackathon by publishing 
 
 You can use this to add the speakers at your hackathon as well.
 
-![](../.gitbook/assets/judges.gif)
+![](../../.gitbook/assets/judges.gif)
 
 Click on `Begin adding judges` and proceed to add the following details:
 
@@ -16,5 +16,5 @@ Click on `Begin adding judges` and proceed to add the following details:
 * **About** \(Optional\): A short description to introduce them
 * **Image**: You can upload a image in .png or .jpg format \(Recommended dimensions: 64x64\)
 
-![This is how it will look on the Hackathon microsite](../.gitbook/assets/image%20%2811%29.png)
+![This is how it will look on the Hackathon microsite](../../.gitbook/assets/image%20%2811%29.png)
 

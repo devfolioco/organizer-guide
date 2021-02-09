@@ -1,6 +1,6 @@
 # Basics Tab
 
-![](../.gitbook/assets/basic-details.gif)
+![](../../.gitbook/assets/basic-details.gif)
 
 These details will be visible on the subdomain hosted once the hackathon is live. The following details would be included:
 

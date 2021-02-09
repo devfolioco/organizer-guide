@@ -4,7 +4,7 @@ You can showcase the sponsors on your microsite by updating the Sponsors Tab.
 
 ## Create a Tier
 
-![](../.gitbook/assets/sponsors-p1.gif)
+![](../../.gitbook/assets/sponsors-p1.gif)
 
 Click on `Begin adding sponsors` to create a Sponsor Tier.
 
@@ -13,7 +13,7 @@ Click on `Begin adding sponsors` to create a Sponsor Tier.
 
 ## Add a sponsor to the tiers
 
-![](../.gitbook/assets/sponsors-p2.gif)
+![](../../.gitbook/assets/sponsors-p2.gif)
 
 Click on the `+ sign` to add a sponsor to the respective tier, and proceed to add the details.
 
@@ -23,7 +23,7 @@ Click on the `+ sign` to add a sponsor to the respective tier, and proceed to ad
 
 ## Create additional Sponsors and Tiers
 
-![](../.gitbook/assets/sponsors-p3.gif)
+![](../../.gitbook/assets/sponsors-p3.gif)
 
 Once you have added your first sponsor, you can proceed to add more sponsors to the same tier, or click on the `+ Add Tier` button to add more tiers.
 
