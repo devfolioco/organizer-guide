@@ -13,4 +13,5 @@
 * [Basics Tab](setting-up-your-hackathon/basics-tab.md)
 * [Application Tab](setting-up-your-hackathon/application-tab.md)
 * [Links Tab](setting-up-your-hackathon/links-tab.md)
+* [Brand Tab](setting-up-your-hackathon/brand-tab.md)
 

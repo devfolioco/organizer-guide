@@ -10,7 +10,7 @@ Although most of the fields are not required, we recommend adding as much inform
 
 If your hackathon doesn't have a website of its own, we've got you covered. Upon creating a hackathon on Devfolio, you're provided with a public page hosted at `your-hackathon-name`.devfolio.co
 
-![A default slug is generated for you, with an option to edit it as per your preference depending upon the availability.](../.gitbook/assets/image%20%288%29.png)
+![A default slug is generated for you, with an option to edit it as per your preference depending upon the availability.](../.gitbook/assets/image%20%2811%29.png)
 
 {% hint style="info" %}
 `your-hackathon-name`will be your **Hackathon's slug**.
