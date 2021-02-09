@@ -12,13 +12,17 @@ The `Overview Tab` helps you track the results of your outreach efforts by provi
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-#### 
+## Application Distributions
 
 ![Applications Section in &quot;Online&quot; mode](../../.gitbook/assets/image%20%2822%29.png)
 
 ![Applications Section in &quot;Online with Application Review&quot; mode](../../.gitbook/assets/image%20%2815%29.png)
 
-### Demographics
+{% hint style="info" %}
+Click on `Send reminder emails` to send reminders to hackers who have started to apply to your hackathon but have not submitted the application
+{% endhint %}
+
+## Demographics
 
 * Gender Distribution
 * Age Distribution
