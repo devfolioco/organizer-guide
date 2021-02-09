@@ -12,4 +12,5 @@
 * [Choose your Hackathon Mode](setting-up-your-hackathon/choose-your-hackathon-mode.md)
 * [Basics Tab](setting-up-your-hackathon/basics-tab.md)
 * [Application Tab](setting-up-your-hackathon/application-tab.md)
+* [Links Tab](setting-up-your-hackathon/links-tab.md)
 
