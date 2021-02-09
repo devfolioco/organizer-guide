@@ -20,4 +20,6 @@
   * [Judges Tab](organizers/phase-1/judges-tab.md)
   * [Sponsors Tab](organizers/phase-1/sponsors-tab.md)
   * [FAQs Tab](organizers/phase-1/faqs-tab.md)
+* [Organizer Dashboard](organizers/organizer-dashboard/README.md)
+  * [Overview Tab](organizers/organizer-dashboard/overview-tab.md)
 
