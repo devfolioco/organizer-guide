@@ -6,7 +6,7 @@ Although most of the fields are not required, we recommend adding as much inform
 
 ![](../.gitbook/assets/links.gif)
 
-## Devfolio Microsite URL \[add microsite definition\]
+## Devfolio Microsite URL
 
 If your hackathon doesn't have a website of its own, we've got you covered. Upon creating a hackathon on Devfolio, you're provided with a public page hosted at `your-hackathon-name`.devfolio.co
 
