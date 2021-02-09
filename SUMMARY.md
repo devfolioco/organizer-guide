@@ -16,4 +16,7 @@
 * [Brand Tab](setting-up-your-hackathon/brand-tab.md)
 * [Dates Tab](setting-up-your-hackathon/dates-tab.md)
 * [Prizes Tab](setting-up-your-hackathon/prizes-tab.md)
+* [Judges Tab](setting-up-your-hackathon/judges-tab.md)
+* [Sponsors Tab](setting-up-your-hackathon/sponsors-tab.md)
+* [FAQs Tab](setting-up-your-hackathon/faqs-tab.md)
 
