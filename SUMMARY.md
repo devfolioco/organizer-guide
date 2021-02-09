@@ -4,7 +4,8 @@
 
 ## Introduction
 
-* [Getting Started](introduction/getting-started.md)
+* [Why Devfolio?](introduction/getting-started.md)
+* [Hackathon Modes](introduction/hackathon-modes.md)
 
 ## Setting up your Hackathon
 

@@ -1,4 +1,4 @@
-# Getting Started
+# Why Devfolio?
 
 ### Devfolio makes organizing hackathons a breeze.
 
