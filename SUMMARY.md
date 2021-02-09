@@ -9,15 +9,15 @@
 
 ## Docs for Organizers <a id="organizers"></a>
 
-* [Setting up your Hackathon](organizers/setting-up-your-hackathon/README.md)
-  * [Choose your Hackathon Mode](organizers/setting-up-your-hackathon/choose-your-hackathon-mode.md)
-  * [Basics Tab](organizers/setting-up-your-hackathon/basics-tab.md)
-  * [Application Tab](organizers/setting-up-your-hackathon/application-tab.md)
-  * [Links Tab](organizers/setting-up-your-hackathon/links-tab.md)
-  * [Brand Tab](organizers/setting-up-your-hackathon/brand-tab.md)
-  * [Dates Tab](organizers/setting-up-your-hackathon/dates-tab.md)
-  * [Prizes Tab](organizers/setting-up-your-hackathon/prizes-tab.md)
-  * [Judges Tab](organizers/setting-up-your-hackathon/judges-tab.md)
-  * [Sponsors Tab](organizers/setting-up-your-hackathon/sponsors-tab.md)
-  * [FAQs Tab](organizers/setting-up-your-hackathon/faqs-tab.md)
+* [Setting up your Hackathon](organizers/phase-1/README.md)
+  * [Choose your Hackathon Mode](organizers/phase-1/choose-your-hackathon-mode.md)
+  * [Basics Tab](organizers/phase-1/basics-tab.md)
+  * [Application Tab](organizers/phase-1/application-tab.md)
+  * [Links Tab](organizers/phase-1/links-tab.md)
+  * [Brand Tab](organizers/phase-1/brand-tab.md)
+  * [Dates Tab](organizers/phase-1/dates-tab.md)
+  * [Prizes Tab](organizers/phase-1/prizes-tab.md)
+  * [Judges Tab](organizers/phase-1/judges-tab.md)
+  * [Sponsors Tab](organizers/phase-1/sponsors-tab.md)
+  * [FAQs Tab](organizers/phase-1/faqs-tab.md)
 
