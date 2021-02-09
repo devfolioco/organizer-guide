@@ -12,9 +12,13 @@ Click on `Organize your Hackathon on Devfolio` and proceed to select the hackath
 Once you select a Hackathon mode, you **won't be able to change** it later!
 {% endhint %}
 
-![](../.gitbook/assets/image%20%285%29.png)
+![Start building your hackathon on org.devfolio.co](../.gitbook/assets/organize-a-hackathon.gif)
 
 Start building your hackathon on [org.devfolio.co](http://org.devfolio.co)
 
-If you want to know more about the Hackathon modes, check out the documentation {{here}}
+If you want to know more about the Hackathon modes, check out the documentation here 👇🏻
+
+{% page-ref page="../introduction/hackathon-modes.md" %}
+
+
 
