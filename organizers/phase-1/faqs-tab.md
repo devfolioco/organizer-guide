@@ -11,5 +11,5 @@ Click on `Begin adding FAQs` to open up a modal.
 
 You can add as many FAQs as you want by click on the `Add` button towards the extreme right.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 

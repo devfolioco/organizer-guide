@@ -6,9 +6,9 @@ You can add your Hackathon Logo, as well as the Cover Image in this tab. In orde
 
 ## Results
 
-![Cover Image showcased on your hackathon&apos;s Microsite](../../.gitbook/assets/image%20%2815%29.png)
+![Cover Image showcased on your hackathon&apos;s Microsite](../../.gitbook/assets/image%20%2819%29.png)
 
-![Hackathon Logo showcased on the project submission page](../../.gitbook/assets/image%20%2810%29.png)
+![Hackathon Logo showcased on the project submission page](../../.gitbook/assets/image%20%2812%29.png)
 
-![Hackathon Logo showcased on your Dashboard](../../.gitbook/assets/image%20%2816%29.png)
+![Hackathon Logo showcased on your Dashboard](../../.gitbook/assets/image%20%2820%29.png)
 
