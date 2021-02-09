@@ -66,8 +66,71 @@ handleLoad = () => {
 
 * The CSS below adds a default style to the apply now button. Add the following snippet to  the website’s styles.
 
+{% code title="apply-snippet.css" %}
+```css
+#devfolio-apply-now {
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #3770FF;
+    border-radius: 3px;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px;
+    text-align: center;
+}
+
+#devfolio-apply-now:not([disabled]) {
+    cursor: pointer;
+}
+
+#devfolio-apply-now:hover {
+    background-color: #2954BF !important;
+}
+```
+{% endcode %}
+
 {% tabs %}
 {% tab title="apply-snippet.css" %}
+{% code title="apply-snippet.css" %}
+```css
+#devfolio-apply-now {
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #3770FF;
+    border-radius: 3px;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px;
+    text-align: center;
+}
+
+#devfolio-apply-now:not([disabled]) {
+    cursor: pointer;
+}
+
+#devfolio-apply-now:hover {
+    background-color: #2954BF !important;
+}
+```
+{% endcode %}
+
+{% code title="apply-snippet.css" %}
 ```css
 #devfolio-apply-now {
     -ms-flex-align: center;
@@ -97,6 +160,7 @@ handleLoad = () => {
     background-color: #2954BF !important;
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
