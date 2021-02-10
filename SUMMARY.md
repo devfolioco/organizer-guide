@@ -24,4 +24,5 @@
   * [Overview Tab](organizers/organizer-dashboard/overview-tab.md)
   * [Review Tab](organizers/organizer-dashboard/review-tab.md)
   * [Admin Tab](organizers/organizer-dashboard/admin-tab.md)
+  * [Team Tab](organizers/organizer-dashboard/team-tab.md)
 
