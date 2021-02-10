@@ -45,7 +45,7 @@ To help you keep track of that, you will have to check the `Consent Form Submitt
 #### Points to note:
 
 * ‘'Check-ins' is an individual-level process that needs to be undertaken for all members of a team and individuals alike.
-* Apart from marking attendance of all those present physically at the venue, check-ins are essential to for hackers to be able to submit their projects on Devfolio.
+* Apart from marking attendance of all those present at the venue, check-ins are essential for hackers to be able to submit their projects on Devfolio.
 * 'Check-ins' ensure that hackers who don't attend the hackathon aren't able to submit a project or be able to claim that they participated in the event.
 * It's good practice to provide 'Volunteer' tab access to multiple volunteers through the 'Team' tab and get hackers checked-in as they arrive at the start of the hackathon.
 * Since only hackers who have confirmed their intention of attending the hackathon are meant to attend it, only RSVP hackers will show up in the 'Volunteer' tab.
