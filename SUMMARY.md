@@ -25,4 +25,6 @@
   * [Review Tab](organizers/organizer-dashboard/review-tab.md)
   * [Admin Tab](organizers/organizer-dashboard/admin-tab.md)
   * [Team Tab](organizers/organizer-dashboard/team-tab.md)
+  * [Additional Tabs](organizers/organizer-dashboard/additional-tabs/README.md)
+    * [Volunteer Tab](organizers/organizer-dashboard/additional-tabs/volunteer-tab.md)
 

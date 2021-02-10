@@ -1,0 +1,54 @@
+# Volunteer Tab
+
+
+
+Check-ins on Devfolio are a breeze!
+
+Devfolio provides an easy way to keep track of the attendees present at the hackathon through the 'Volunteer' tab in the organizer dashboard. The 'expected' count at the bottom indicates the number of hackers who have confirmed their intention to attend the hackathon by completing the RSVP process.
+
+## Different ways to check-in
+
+Hackers can be checked-in by entering their:
+
+* Name
+* Username
+* Email ID
+* Team name in the format: `team: team-name`
+* QR Code \(well suited for Offline Hackathons\)
+
+The hackers can access their QR code which is sent over to the hackers in their RSVP confirmation email or accessible on the hacker dashboard on the URL: [https://devfolio.co/settings](https://devfolio.co/settings%E2%80%8B)
+
+![Desktop View](../../../.gitbook/assets/image%20%285%29.png)
+
+![Phone View](../../../.gitbook/assets/image%20%2811%29.png)
+
+## Checking-in
+
+![](../../../.gitbook/assets/image%20%288%29.png)
+
+Once their profile shows up, as shown above, they can be marked 'Check-in' by the volunteer.
+
+![](../../../.gitbook/assets/image%20%2824%29.png)
+
+{% hint style="warning" %}
+An option to undo the action will briefly show up in the top left corner, which, if ignored, will make the 'Check-in' **irreversible**.
+{% endhint %}
+
+## Checking-in Underage Participants
+
+If you hackathon happens to have participants below the age of 18, it is always good to get a consent form submitted by their parents.
+
+To help you keep track of that, you will have to check the `Consent Form Submitted` field in order to proceed to check-in.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2743cad5-bea2-4550-bcd9-e442c04d98ba/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2743cad5-bea2-4550-bcd9-e442c04d98ba/Untitled.png)
+
+#### Points to note:
+
+* ‘'Check-ins' is an individual-level process that needs to be undertaken for all members of a team and individuals alike.
+* Apart from marking attendance of all those present physically at the venue, check-ins are essential to for hackers to be able to submit their projects on Devfolio.
+* 'Check-ins' ensure that hackers who don't attend the hackathon aren't able to submit a project or be able to claim that they participated in the event.
+* It's good practice to provide 'Volunteer' tab access to multiple volunteers through the 'Team' tab and get hackers checked-in as they arrive at the start of the hackathon.
+* Since only hackers who have confirmed their intention of attending the hackathon are meant to attend it, only RSVP hackers will show up in the 'Volunteer' tab.
+* If a hacker has forgotten to RSVP the deadline can be extended individually by entering his/her details in the 'Admin' tab on the dashboard.
+* Hackers who haven't submitted their profile for review, haven't had their profile reviewed or have received rejection emails can't be checked-in.
+
