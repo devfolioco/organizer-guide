@@ -20,7 +20,7 @@ The hackers can access their QR code which is sent over to the hackers in their 
 
 ![Desktop View](../../../.gitbook/assets/image%20%285%29.png)
 
-![Phone View](../../../.gitbook/assets/image%20%2811%29.png)
+![Phone View](../../../.gitbook/assets/image%20%2812%29.png)
 
 ## Checking-in
 
@@ -28,7 +28,7 @@ The hackers can access their QR code which is sent over to the hackers in their 
 
 Once their profile shows up, as shown above, they can be marked 'Check-in' by the volunteer.
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
 {% hint style="warning" %}
 An option to undo the action will briefly show up in the top left corner, which, if ignored, will make the 'Check-in' **irreversible**.
@@ -40,7 +40,7 @@ If you hackathon happens to have participants below the age of 18, it is always 
 
 To help you keep track of that, you will have to check the `Consent Form Submitted` field in order to proceed to check-in.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2743cad5-bea2-4550-bcd9-e442c04d98ba/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2743cad5-bea2-4550-bcd9-e442c04d98ba/Untitled.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 
 #### Points to note:
 
