@@ -1,6 +1,10 @@
-# Admin Tab
+---
+description: >-
+  The Admin tab contains essential features that make it easier to manage your
+  hackathon.
+---
 
-The Admin tab contains essential features that make it easier to manage your hackathon.
+# Admin Tab
 
 ## Search Team and Hackers
 
