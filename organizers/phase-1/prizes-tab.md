@@ -6,7 +6,7 @@ Over here, we have created an API Prize for a company and marked it as a track/s
 
 ![Click on Begin Adding Przies](../../.gitbook/assets/prize.gif)
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 {% hint style="warning" %}
 Make sure to click on the `This is a track or sponsor prize` toggle for it to appear on the hackers' end
@@ -14,7 +14,7 @@ Make sure to click on the `This is a track or sponsor prize` toggle for it to ap
 
 ## Result
 
-![This is how it will look on the hackers&apos; end while they submit their project](../../.gitbook/assets/image%20%2821%29.png)
+![This is how it will look on the hackers&apos; end while they submit their project](../../.gitbook/assets/image%20%2826%29.png)
 
 ![Filtering projects on the basis of the Tracks \(Hackathon Submission Page\)](../../.gitbook/assets/filters-1-.gif)
 

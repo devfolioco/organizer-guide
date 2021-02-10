@@ -4,7 +4,7 @@
 Before logging in to the Organizer Dashboard, make sure that you have already created a Devfolio Account.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 Click on `Organize your Hackathon on Devfolio` and proceed to select the hackathon mode.
 
