@@ -26,8 +26,11 @@
   * [Admin Tab](organizers/organizer-dashboard/admin-tab.md)
   * [Team Tab](organizers/organizer-dashboard/team-tab.md)
   * [Additional Tabs](organizers/organizer-dashboard/additional-tabs/README.md)
-    * [Update your Hackathon Details](organizers/organizer-dashboard/additional-tabs/update-your-hackathon-details.md)
     * [Volunteer Tab](organizers/organizer-dashboard/additional-tabs/volunteer-tab.md)
     * [Logistics Tab](organizers/organizer-dashboard/additional-tabs/logistics-tab.md)
     * [Fares Tab](organizers/organizer-dashboard/additional-tabs/fares-tab.md)
+  * [Update your Hackathon Details](organizers/organizer-dashboard/update-your-hackathon-details.md)
+* [Wrapping up the Hackathon](organizers/wrapping-up-the-hackathon/README.md)
+  * [Feedback Tab](organizers/wrapping-up-the-hackathon/feedback-tab.md)
+  * [Announcing the Winners](organizers/wrapping-up-the-hackathon/announcing-the-winners.md)
 

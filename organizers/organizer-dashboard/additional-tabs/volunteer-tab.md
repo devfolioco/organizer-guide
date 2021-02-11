@@ -20,7 +20,7 @@ The hackers can access their QR code which is sent over to the hackers in their 
 
 ![Desktop View](../../../.gitbook/assets/image%20%286%29.png)
 
-![Phone View](../../../.gitbook/assets/image%20%2814%29.png)
+![Phone View](../../../.gitbook/assets/image%20%2815%29.png)
 
 ## Checking-in
 
@@ -28,7 +28,7 @@ The hackers can access their QR code which is sent over to the hackers in their 
 
 Once their profile shows up, as shown above, they can be marked 'Check-in' by the volunteer.
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2834%29.png)
 
 {% hint style="warning" %}
 An option to undo the action will briefly show up in the top left corner, which, if ignored, will make the 'Check-in' **irreversible**.

@@ -4,7 +4,7 @@ The `Overview Tab` helps you track the results of your outreach efforts by provi
 
 ![Overview Tab for &quot;Online with Application Review&quot; mode](../../.gitbook/assets/image%20%287%29.png)
 
-![Overview Tab for &quot;Online&quot; mode](../../.gitbook/assets/image%20%2834%29.png)
+![Overview Tab for &quot;Online&quot; mode](../../.gitbook/assets/image%20%2840%29.png)
 
 
 
@@ -14,9 +14,9 @@ The `Overview Tab` helps you track the results of your outreach efforts by provi
 
 ## Application Distributions
 
-![Applications Section in &quot;Online&quot; mode](../../.gitbook/assets/image%20%2851%29.png)
+![Applications Section in &quot;Online&quot; mode](../../.gitbook/assets/image%20%2858%29.png)
 
-![Applications Section in &quot;Online with Application Review&quot; mode](../../.gitbook/assets/image%20%2835%29.png)
+![Applications Section in &quot;Online with Application Review&quot; mode](../../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="info" %}
 Click on `Send reminder emails` to send reminders to hackers who have started to apply to your hackathon but have not submitted the application
@@ -37,7 +37,7 @@ Click on `Send reminder emails` to send reminders to hackers who have started to
 * Graduation Year
 * Educational Institutions \(Top 5 institutions from where the hackathon has received applications\)
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
-![Expertise-wise distribution of the applications](../../.gitbook/assets/image%20%2825%29.png)
+![Expertise-wise distribution of the applications](../../.gitbook/assets/image%20%2830%29.png)
 
