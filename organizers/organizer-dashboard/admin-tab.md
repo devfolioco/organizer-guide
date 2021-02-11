@@ -30,13 +30,13 @@ Upon searching the user, the following sub-sections appear
 
 ## Change Application Deadline
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Once the hackathon is live, if hackers need more time to submit their project, the project submission deadline can be extended here.
 
 ## Extend RSVP Deadline
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 You can extend the application and RSVP deadline for all hackers using the dashboard. \(RSVP is the time period in which the hacker once accepted needs to confirm his/her presence.\)
 
@@ -44,11 +44,11 @@ You can extend the application and RSVP deadline for all hackers using the dashb
 
 ### `Online` Mode
 
-![You will be able to download the list of participants who have submitted their projects to your hackathon.](../../.gitbook/assets/image%20%2820%29.png)
+![You will be able to download the list of participants who have submitted their projects to your hackathon.](../../.gitbook/assets/image%20%2822%29.png)
 
 ### `Online with Application Review` and `Offline` Mode
 
-![You will be able to download the list of participants who have RSVP&apos;d to your hackathon.](../../.gitbook/assets/image%20%2817%29.png)
+![You will be able to download the list of participants who have RSVP&apos;d to your hackathon.](../../.gitbook/assets/image%20%2819%29.png)
 
 ## Make an Announcement
 
@@ -58,13 +58,13 @@ The Admin tab can be used to send announcements to hackers to keep them updated 
 
 
 
-![Extra segments available in &quot;Online with Application Review&quot; and &quot;Offline&quot; Mode](../../.gitbook/assets/image%20%2838%29.png)
+![Extra segments available in &quot;Online with Application Review&quot; and &quot;Offline&quot; Mode](../../.gitbook/assets/image%20%2841%29.png)
 
 ## Extend the Project Submission Deadline
 
 If due to any unforeseen circumstance you'd like to extend the project submission deadline, you can do so from here.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="warning" %}
 You **won't** be able to extend the submission deadline after your initial deadline has passed.

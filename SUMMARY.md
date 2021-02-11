@@ -27,4 +27,5 @@
   * [Team Tab](organizers/organizer-dashboard/team-tab.md)
   * [Additional Tabs](organizers/organizer-dashboard/additional-tabs/README.md)
     * [Volunteer Tab](organizers/organizer-dashboard/additional-tabs/volunteer-tab.md)
+    * [Logistics Tab](organizers/organizer-dashboard/additional-tabs/logistics-tab.md)
 

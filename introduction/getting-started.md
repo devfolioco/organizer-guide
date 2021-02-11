@@ -10,5 +10,5 @@ Devfolio is the result of a need for intuitive tools to manage community hackath
 
 ![Browse through each profile quickly.](../.gitbook/assets/image%20%282%29.png)
 
-![In-built email tool to write to your applicants.](../.gitbook/assets/image%20%2814%29.png)
+![In-built email tool to write to your applicants.](../.gitbook/assets/image%20%2815%29.png)
 

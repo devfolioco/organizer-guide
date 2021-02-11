@@ -9,13 +9,13 @@ The **status of the applicant** can be:
 * `Profile Submitted`: They have only applied to your hackathon
 * `Project Submitted`: They have applied as well as submitted their project to your hackathon
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ## Offline and Online with Application Review Mode
 
 Here, you can review individual, and team profiles to extend invitations to them to attend your hackathon \(accept\), decline their application \(reject\) or waitlist them. You can apply various filters to help you in the process.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 **Filters:**
 
@@ -38,7 +38,7 @@ The **status of the applicant** can be:
 
 Upon clicking on an application, you can see all the relevant data required to make an invitation decision and to accept/reject/waitlist them on the basis of it.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ### Accept
 
@@ -51,7 +51,7 @@ Click on `Accept` when:
 The hacker won't receive any email or notification and you can still change your mind.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 In order to confirm the acceptance, click on `Send Acceptance Mail`, visible on top of the individual application.
 
@@ -72,7 +72,7 @@ Click on `Reject` when:
 The hacker won't receive any email or notification and you can still change your mind.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 In order to confirm the non-acceptance, click on `Send Rejection Mail`, visible on top of the individual application.
 
@@ -90,7 +90,7 @@ Click on `Waitlist` when:
 Marking someone as ‘Waitlisted’ immediately notifies them of their waitlisted status on their Hacker Dashboard.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 ### Sending Acceptance/Rejection Email in Bulk
 
@@ -102,5 +102,5 @@ If you wish to send **permanent** acceptance/rejection emails in bulk after shor
 
 You can add comments as organizers for personal reference or if multiple organizers are reviewing the application and you have something, in particular, to describe the application.
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
