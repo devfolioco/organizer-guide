@@ -34,5 +34,4 @@
   * [Feedback Tab](organizers/wrapping-up-the-hackathon/feedback-tab.md)
   * [Announcing the Winners](organizers/wrapping-up-the-hackathon/announcing-the-winners.md)
 * [Support and FAQs](organizers/support-and-faqs.md)
-* [Untitled](organizers/untitled.md)
 

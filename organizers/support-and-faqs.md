@@ -1,7 +1,5 @@
 # Support and FAQs
 
-
-
 ## When can we access the Devfolio portal for registrations?
 
 The Organizer Dashboard is visible as soon as your hackathon is verified by Devfolio. If you have submitted your hackathon for review, reach out to us at `community@devfolio.co` to learn the next steps.
