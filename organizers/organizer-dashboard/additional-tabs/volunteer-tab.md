@@ -18,17 +18,17 @@ Hackers can be checked-in by entering their:
 
 The hackers can access their QR code which is sent over to the hackers in their RSVP confirmation email or accessible on the hacker dashboard on the URL: [https://devfolio.co/settings](https://devfolio.co/settings%E2%80%8B)
 
-![Desktop View](../../../.gitbook/assets/image%20%285%29.png)
+![Desktop View](../../../.gitbook/assets/image%20%286%29.png)
 
-![Phone View](../../../.gitbook/assets/image%20%2813%29.png)
+![Phone View](../../../.gitbook/assets/image%20%2814%29.png)
 
 ## Checking-in
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 
 Once their profile shows up, as shown above, they can be marked 'Check-in' by the volunteer.
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 {% hint style="warning" %}
 An option to undo the action will briefly show up in the top left corner, which, if ignored, will make the 'Check-in' **irreversible**.
@@ -40,7 +40,7 @@ If your hackathon happens to have participants below the age of 18, it is always
 
 To help you keep track of that, you will have to check the `Consent Form Submitted` field in order to proceed to check-in.
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 #### Points to note:
 
