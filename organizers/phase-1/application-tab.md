@@ -1,12 +1,16 @@
 # Application Tab
 
-To help you save time, Devfolio provides some built-in fields from which you can decide what hackers need to fill while applying for your hackathon.
+To help you save time, Devfolio provides you with built-in fields that are commonly used. You can decide what fields do the hackers need to fill in while applying for your hackathon.
 
-![](../../.gitbook/assets/application-p1.gif)
+![A variety of built-in fields available to select from and add to your application in an instant.](../../.gitbook/assets/application-p1.gif)
 
 {% hint style="danger" %}
-The fields selected over in this section is marked as compulsory! If you want to make them optional, you can proceed to add them as a custom question.
+The fields selected here are marked as mandatory! If you want to make them optional, you can proceed to add them as a custom question.
 {% endhint %}
+
+Here's how it will look like when the hacker fills out the application to your hackathon.
+
+![All the fields you selected above being asked for while filling out the application to your hackathon.](../../.gitbook/assets/image%20%2860%29.png)
 
 ## Adding Custom Questions
 
