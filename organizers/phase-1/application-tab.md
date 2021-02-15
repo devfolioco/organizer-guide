@@ -10,7 +10,11 @@ The fields selected here are marked as mandatory! If you want to make them optio
 
 Here's how it will look like when the hacker fills out the application to your hackathon.
 
-![All the fields you selected above being asked for while filling out the application to your hackathon.](../../.gitbook/assets/image%20%2860%29.png)
+![All the fields you selected above being asked for while filling out the application to your hackathon.](../../.gitbook/assets/image%20%2861%29.png)
+
+At times, the hackers may have already added some fields such as GitHub, LinkedIn links to their profile. So when they start filling out the application, the available details are directly taken from their profile and are not asked again while they fill out the application. The ones not available are then explicitly asked for.
+
+![Fields not available on the user&apos;s profile is then asked for to submit.](../../.gitbook/assets/image%20%2860%29.png)
 
 ## Adding Custom Questions
 
