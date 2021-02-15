@@ -1,5 +1,7 @@
 # Application Tab
 
+## Using Built-in Fields for your Application
+
 To help you save time, Devfolio provides you with built-in fields that are commonly used. You can decide what fields do the hackers need to fill in while applying for your hackathon.
 
 ![A variety of built-in fields available to select from and add to your application in an instant.](../../.gitbook/assets/application-p1.gif)
@@ -17,6 +19,10 @@ At times, the hackers may have already added some fields such as GitHub, LinkedI
 ![Fields not available on the user&apos;s profile is then asked for to submit.](../../.gitbook/assets/image%20%2860%29.png)
 
 ## Adding Custom Questions
+
+{% hint style="info" %}
+Pro Tip: You need not add custom questions for social media links if they're mandatory for your application since we have provided it in our pre-built fields
+{% endhint %}
 
 If you wish to create custom questions, you can proceed to do so by clicking on the `+ Add` button at the bottom. There are a variety of Field Types available to cater to most of your questions.
 
