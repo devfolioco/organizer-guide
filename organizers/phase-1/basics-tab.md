@@ -16,3 +16,7 @@ These details will be visible on the subdomain hosted once the hackathon is live
 The `About` section defines your hackathon mission, vision, and other details, so make sure to fill it properly. Devfolio supports markdown for a better view.
 {% endhint %}
 
+## Result
+
+![](../../.gitbook/assets/image%20%2862%29.png)
+
