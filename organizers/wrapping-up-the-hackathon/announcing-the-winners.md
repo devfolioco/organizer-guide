@@ -6,6 +6,10 @@ description: >-
 
 # Announcing the Winners
 
+{% hint style="warning" %}
+The winners can be added only by the creator of the hackathon.
+{% endhint %}
+
 ![](../../.gitbook/assets/display-card.gif)
 
 Here are the simple steps to follow to announce the winners of your hackathon:

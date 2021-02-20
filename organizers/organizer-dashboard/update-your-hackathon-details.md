@@ -1,5 +1,9 @@
 # Update your Hackathon Details
 
+{% hint style="warning" %}
+The update button will only be visible to the creator of the hackathon.
+{% endhint %}
+
 In certain instances, you might need to update the details of your hackathon. It can be the description, prizes, judges, Code of Conduct, etc.
 
 You can proceed to do so by logging in to Devfolio as an Organizer \([https://org.devfolio.co](https://org.devfolio.co)\)
