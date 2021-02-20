@@ -28,11 +28,15 @@ But make sure to extend it before the initial submission deadline passes!
 
 ## **I cannot add teammates in my organizer dashboard.**
 
-Only the creator of the hackathon has the permission to add teammates. The other members, even with all permissions, cannot add or remove teammates.
+Only the creator of the hackathon has permission to add teammates. The other members, even with all permissions, cannot add or remove teammates.
 
 ## **Can I change the fields present in the Application Form?**
 
 If you haven't submitted your hackathon for review, you can make the changes by updating your hackathon.
+
+## **Where can I view the submissions made to my Hackathon?**
+
+You can find the submissions on your hackathon's microsite. 
 
 ## For Other Queries
 
