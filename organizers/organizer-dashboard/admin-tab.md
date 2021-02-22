@@ -18,15 +18,15 @@ Upon searching the user, the following sub-sections appear
 
 ### **Info**
 
-![Admin tab view in Online mode hackathon](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/375528c2-c1d1-4711-b357-e91a197a5741/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210210T085554Z&X-Amz-Expires=86400&X-Amz-Signature=0fb72de72151cb70047d0c07271cc81aedce3aada57dc832534da201181b47cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![Admin tab view in Online mode hackathon](../../.gitbook/assets/image%20%2866%29.png)
 
 ### **Actions**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78236e4d-aae2-43ad-85f3-65634a26bc6f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210210T085559Z&X-Amz-Expires=86400&X-Amz-Signature=bb4831efe4c2c5b477bf0bb685fcf996b10196ada25c19a9c9a08cc02cc5fe97&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ### **Status** 
 
-![The status tab is visible only in &quot;Online With Application Review&quot; and &quot;Offline&quot; mode](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d75d9527-e1aa-4831-a0a2-80b87eb35474/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210210T085606Z&X-Amz-Expires=86400&X-Amz-Signature=800b91531860297a285f88bcb006d33a68a640c893ee6dd3d659fd45b3853a7d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 ## Change Application Deadline
 
@@ -38,7 +38,8 @@ Once the hackathon is live, if hackers need more time to submit their project, t
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
-You can extend the application and RSVP deadline for all hackers using the dashboard. \(RSVP is the time period in which the hacker once accepted needs to confirm his/her presence.\)
+You can extend the application and RSVP deadline for all hackers using the dashboard. \(RSVP is the time period in which the hacker once accepted needs to confirm his/her presence\).  
+For example, if you extend the RSVP Deadline by `N` days, it will enable the hackers to RSVP within `N` days from the instant you extend the deadline.
 
 ## Download CSV
 
