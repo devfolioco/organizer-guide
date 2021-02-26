@@ -1,10 +1,6 @@
----
-description: >-
-  Devfolio lets hackers make project submissions to describe the hacks they've
-  built over the course of the hackathon.
----
-
 # Project Submission
+
+Devfolio lets hackers make project submissions to describe the hacks they've built over the course of the hackathon.
 
 ## Submitting Project \[Online Mode\]
 
