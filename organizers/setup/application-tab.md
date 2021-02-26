@@ -28,7 +28,38 @@ If you wish to create custom questions, you can proceed to do so by clicking on 
 
 ![](../../.gitbook/assets/application-p2.gif)
 
+### **Field Type**
+
+### **Question**
+
+Add the question you'd like to ask the hacker
+
+Results 👇🏻
+
+![](../../.gitbook/assets/image%20%28114%29.png)
+
+### **Placeholder**
+
+Add a sample response to provide more context to the hacker.
+
+![](../../.gitbook/assets/image%20%28112%29.png)
+
+### Hint
+
+Some questions require more information to be provided. You can add it as a Hint
+
+Results 👇🏻
+
+![](../../.gitbook/assets/image%20%28113%29.png)
+
 {% hint style="warning" %}
 Make sure you check the `This is a required question` checkbox if you want to make the field compulsory
 {% endhint %}
+
+## Demo Application
+
+Below are two hackathons that you can apply to. Feel free to submit projects at these hackathons, being mindful of the content since they'll be publicly visible.
+
+* Online with Application Review: [https://awesome-hackathon.devfolio.co](https://awesome-hackathon.devfolio.co)
+* Online: [https://awesome-online-hackathon.devfolio.co/](https://awesome-online-hackathon.devfolio.co/)
 
