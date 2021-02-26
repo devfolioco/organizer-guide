@@ -1,7 +1,5 @@
 ---
-description: >-
-  You can showcase your projects, skills, and experience on your Devfolio
-  Profile.
+description: "Showcase your projects, skills, and experience on your Devfolio Profile \U0001F4AA\U0001F3FB"
 ---
 
 # Profile Tab

@@ -1,6 +1,8 @@
-# Inspire Me
+---
+description: "Confused about what to build? Devfolio has got you covered! \U0001F91D\U0001F3FB"
+---
 
-Confused about what to build? Devfolio has got you covered!
+# Inspire Me
 
 {% hint style="info" %}
 `Inspire me` is available under the 'Project' tab.

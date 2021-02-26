@@ -1,2 +1,0 @@
-# Participating in Hackathons
-

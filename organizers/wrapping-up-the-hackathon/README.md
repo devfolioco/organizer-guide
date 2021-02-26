@@ -1,2 +1,0 @@
-# Wrapping up the Hackathon
-

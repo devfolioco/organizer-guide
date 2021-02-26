@@ -1,6 +1,8 @@
-# Projects Tab
+---
+description: "Add a project to showcase on your Devfolio profile \U0001F31F"
+---
 
-Have a project which you'd like to add to your Devfolio profile? You can simply add a project to Devfolio through the Projects Tab!
+# Projects Tab
 
 ### Adding a Project
 
