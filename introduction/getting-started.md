@@ -2,7 +2,7 @@
 
 ## Devfolio for Hackers 💻
 
-You have made your first successful step in your hacker journey by being a part of Devfolio! Devfolio is a platform of choice for hackathons, be it for participating or organizing one. We have put in years of our experience and work with hackathons to make this the perfect platform for all your hackathon journey!
+You have made your first successful step in your hacker journey by being a part of Devfolio! Devfolio is the platform of choice for hackathons, be it for participating or organizing one. We have put in years of our experience and work with hackathons to make this the perfect platform for all your hackathon journey!
 
 Now you ask, "What can I do on Devfolio? 🤔". Here ya go!
 
@@ -42,7 +42,7 @@ Devfolio is the result of a need for intuitive tools to manage community hackath
 
 ![In-built email tool to write to your applicants.](../.gitbook/assets/image%20%2817%29.png)
 
-Start to learn more about the hacker-end of the platform here 👇🏻
+Start to learn more about the organizer-end of the platform here 👇🏻
 
 
 

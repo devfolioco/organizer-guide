@@ -1,12 +1,12 @@
 # Hackathon Modes
 
-Devfolio offers 3 hackathon modes in order to suit the organizer's needs.
+Devfolio offers three different hackathon modes 
 
 * Offline
 * Online With Application Review
 * Online
 
-| Hackathon Mode | Description | Suitable For | Review Process | Team Requirement |
+| Hackathon Mode | Description | Suitable For | Review Process | Team Required for Project Submission |
 | :--- | :--- | :--- | :--- | :--- |
 | Offline | Well-suited for on-site hackathons. | Organizers who wish to have control over who gets to submit projects at their hackathons. | ✅ | ✅ |
 | Online with Application Review | Just like Offline, it has the same application flow and project submission process with appropriate copy differentiating them for the hackers. | Organizers who wish to have control over who gets to submit projects at their hackathons. | ✅ | ✅ |
