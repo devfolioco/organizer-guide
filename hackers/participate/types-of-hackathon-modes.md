@@ -3,7 +3,7 @@
 \[TL;DR\] The hackathons on Devfolio are set up in one of the following modes:
 
 * `Offline Hackathon`: This will be an on-site hackathon. Your application will be then reviewed and upon acceptance, you will have to be physically present at the venue. 
-* `Online With Application Review`: Your application will first be reviewed by the organizer and you will be accepted/not accepted/waitlisted on the basis of that. Upon getting accepted, you will first have to RSVP yes, get checked-in by the organizers and then submit a project to the hackathon. 
+* `Online With Application Review`: Your application will first be reviewed by the organizer and you will be accepted/not accepted/waitlisted on the basis of that. Upon getting accepted, you will first have to RSVP yes, get checked-in by the organizers and then submit a project to the hackathon as a team. 
 * `Online Hackathon`: Once you submit your application to the hackathon, you will be eligible to make a submission during the submission period without any review phase.
 
 ### Online Hackathon
