@@ -1,4 +1,4 @@
-# FAQs for Hackers
+# Landing Page
 
 Devfolio lets any user browse and see all the past, live and upcoming hackathons through a dedicated page called ["Hackathons"](https://devfolio.co/hackathons). 💻
 

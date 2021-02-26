@@ -37,7 +37,7 @@
 
 ## Docs for Hackers <a id="hackers"></a>
 
-* [FAQs for Hackers](hackers/faqs-for-hackers-1.md)
+* [Landing Page](hackers/landing-page.md)
 * [Your Devfolio Profile](hackers/devfolio-profile/README.md)
   * [Signing Up](hackers/devfolio-profile/signing-up.md)
   * [Profile Tab](hackers/devfolio-profile/profile-tab.md)
