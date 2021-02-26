@@ -6,7 +6,9 @@ description: >-
 
 # Profile Tab
 
-Your profile is public by default. If you wish to make it private, you can do so in the Settings Tab \(Refer [here](https://www.notion.so/Settings-Tab-c80841bd9d5f4ed69f2e36520707c9bd)\).
+Your profile is public by default. If you wish to make it private, you can do so in the Settings Tab
+
+{% page-ref page="settings-tab.md" %}
 
 ### 
 
