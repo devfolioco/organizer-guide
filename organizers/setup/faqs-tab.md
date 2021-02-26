@@ -13,3 +13,7 @@ You can add as many FAQs as you want by click on the `Add` button towards the ex
 
 ![](../../.gitbook/assets/image%20%2857%29.png)
 
+## Results
+
+![](../../.gitbook/assets/image%20%28121%29.png)
+

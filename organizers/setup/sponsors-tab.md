@@ -31,3 +31,7 @@ Once you have added your first sponsor, you can proceed to add more sponsors to 
 If the logo doesn't show up as expected, you can edit it over here.
 {% endhint %}
 
+## Results
+
+![](../../.gitbook/assets/image%20%28122%29.png)
+

@@ -26,3 +26,5 @@ Make sure you input a valid e-mail ID here.
 
 We encourage organizers to have a Code of Conduct for the hackers to adhere to. If you don't have one, you can use [Devfolio's standard Code of Conduct](https://devfolio.co/code-of-conduct) by clicking on the checkbox.
 
+You can visit [https://inout2020.devfolio.co](https://inout2020.devfolio.co) to see a microsite for yourself.
+
