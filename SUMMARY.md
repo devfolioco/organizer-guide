@@ -44,6 +44,7 @@
   * [Settings Tab](hackers/devfolio-profile/settings-tab.md)
   * [My Devfolio Tab](hackers/devfolio-profile/my-devfolio-tab.md)
   * [Projects Tab](hackers/devfolio-profile/projects-tab.md)
+  * [Badges Tab](hackers/devfolio-profile/badges-tab.md)
   * [Inspire Me](hackers/devfolio-profile/inspire-me.md)
 * [Participating in Hackathons](hackers/participate/README.md)
   * [Types of Hackathon Modes](hackers/participate/types-of-hackathon-modes.md)
