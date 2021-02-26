@@ -44,7 +44,7 @@ You can add it as a track to your hackathon via the `Prizes Tab`. This will enab
 
 Refer to the documentation for the same 👇🏻
 
-{% page-ref page="phase-1/prizes-tab.md" %}
+{% page-ref page="setup/prizes-tab.md" %}
 
 
 
