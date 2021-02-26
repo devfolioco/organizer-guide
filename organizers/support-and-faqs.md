@@ -1,4 +1,4 @@
-# Support and FAQs
+# FAQs for Organizers
 
 ## When can we access the Devfolio portal for registrations?
 
@@ -36,7 +36,17 @@ If you haven't submitted your hackathon for review, you can make the changes by 
 
 ## **Where can I view the submissions made to my Hackathon?**
 
-You can find the submissions on your hackathon's microsite. 
+You can find the submissions on your hackathon's microsite.
+
+## How do I add Problem Statements to the Hackathon?
+
+You can add it as a track to your hackathon via the `Prizes Tab`. This will enable the hacker to select the track if their hack is built around the problem statement.
+
+Refer to the documentation for the same 👇🏻
+
+{% page-ref page="phase-1/prizes-tab.md" %}
+
+
 
 ## For Other Queries
 
