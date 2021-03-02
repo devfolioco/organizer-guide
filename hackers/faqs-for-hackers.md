@@ -32,7 +32,9 @@ To submit a profile for review, it is important and compulsory to complete the a
 
 ## **Where can I see submissions made by other hackers?**
 
-The submissions are always visible on the `Submissions` tab under any particular hackathon. Click on the specific submission card to explore the project! For more details about viewing submissions visit 👉🏻 [here](https://www.notion.so/View-Submissions-607695278c294b2ca5da0ae4d51fa60e)
+The submissions are always visible on the `Submissions` tab under any particular hackathon. Click on the specific submission card to explore the project! Read more about it here 👇🏻
+
+{% page-ref page="participate/view-submissions.md" %}
 
 ## **Where can I see the winners?**
 
