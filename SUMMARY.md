@@ -10,7 +10,7 @@
 ## Docs for Organizers <a id="organizers"></a>
 
 * [Setting up your Hackathon](organizers/setup/README.md)
-  * [Choose your Hackathon Mode](organizers/setup/choose-your-hackathon-mode.md)
+  * [Getting Started](organizers/setup/choose-your-hackathon-mode.md)
   * [Basics Tab](organizers/setup/basics-tab.md)
   * [Application Tab](organizers/setup/application-tab.md)
   * [Links Tab](organizers/setup/links-tab.md)

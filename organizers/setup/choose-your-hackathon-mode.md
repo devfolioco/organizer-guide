@@ -1,6 +1,4 @@
-# Choose your Hackathon Mode
-
-## Getting Started
+# Getting Started
 
 To start setting up your hackathon, click on `Organizer Dashboard` from the dropdown located at the top-right corner.
 
