@@ -52,6 +52,10 @@ You cannot delete a project submitted to a hackathon. If you wish to delete a si
 
 In such cases, we recommend dropping a mail at [_**hello@devfolio.co**_](mailto:hello@devfolio.co) and we will be able to help you out there!
 
+## Can we update a team after submitting it for review?
+
+Yes, you are allowed to update the team before making the submission to the hackathon. Once you make the submission, you won't be able to make any further changes.
+
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
 {% endhint %}
