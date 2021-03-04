@@ -46,7 +46,9 @@ Refer to the documentation for the same 👇🏻
 
 {% page-ref page="setup/prizes-tab.md" %}
 
+## While setting up my hackathon, I had specified the minimum number of team members. But I still see people submitting applications individually.
 
+Hackers can submit their applications individually, and you can accept them as well. Although, before making a submission, they will have to join/create a team with the minimum number of team members mentioned.
 
 ## For Other Queries
 

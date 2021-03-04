@@ -56,10 +56,6 @@ In such cases, we recommend dropping a mail at [_**hello@devfolio.co**_](mailto:
 
 Yes, you are allowed to update the team before making the submission to the hackathon. Once you make the submission, you won't be able to make any further changes.
 
-## While setting up my hackathon, I had specified a minimum number of team member count. But I still see people submitting applications individually.
-
-Hackers can submit their applications individually, and you can accept them as well. Although, before making a submission, they will have to join/create a team with the minimum number of team members mentioned.
-
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
 {% endhint %}
