@@ -61,6 +61,12 @@ The Admin tab can be used to send announcements to hackers to keep them updated 
 
 ![Extra segments available in &quot;Online with Application Review&quot; and &quot;Offline&quot; Mode](../../.gitbook/assets/image%20%2852%29.png)
 
+{% hint style="info" %}
+If you wish to send out the announcement as an email \(recommended\), make sure you check the option to `Also send as email` before hitting send
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28123%29.png)
+
 ## Extend the Project Submission Deadline
 
 If due to any unforeseen circumstance you'd like to extend the project submission deadline, you can do so from here.
