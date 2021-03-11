@@ -8,6 +8,12 @@ description: Frequently asked doubts and questions
 
 If you are participating as a team then the submissions can only be made by the team admin.
 
+## **Can I update a project after I have submitted it for judging?**
+
+You can update your project from [https://devfolio.co/projects](https://devfolio.co/projects). Any updates made will show up in the project history. Learn more about it here 👇🏻
+
+{% page-ref page="devfolio-profile/projects-tab.md" %}
+
 ## **My friend cannot join my team. What could be the possible reason?**
 
 #### **1️⃣The Team code entered is invalid**
