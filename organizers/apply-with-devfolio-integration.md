@@ -6,7 +6,7 @@
 
 Include the script once, right before the closing &lt;/body&gt; tag.
 
-```text
+```markup
 <script defer async src="<https://apply.devfolio.co/v2/sdk.js>"></script>
 ```
 
@@ -14,7 +14,7 @@ Include the script once, right before the closing &lt;/body&gt; tag.
 
 If you're using React, load the SDK script dynamically for every page that has the 'Apply with Devfolio' button.
 
-```text
+```jsx
 React.useEffect(() => {
     const script = document.createElement('script');
     script.src = '<https://apply.devfolio.co/v2/sdk.js>';
@@ -35,7 +35,7 @@ Copy and paste this code where you want the 'Apply with Devfolio' button to appe
 Don't forget to replace **YOUR-HACKATHON-SLUG** with your hackathon's actual slug.
 {% endhint %}
 
-```text
+```markup
 <div 
 	class="apply-button" 
 	data-hackathon-slug="YOUR-HACKATHON-SLUG" 
