@@ -62,6 +62,10 @@ In such cases, we recommend dropping a mail at [_**hello@devfolio.co**_](mailto:
 
 Yes, you are allowed to update the team before making the submission to the hackathon. Once you make the submission, you won't be able to make any further changes.
 
+## What is the deadline for joining/creating a team at a hackathon?
+
+You can join/create a team before the submission deadline. Upon making the submission, your team will be finalized and you won't be able to make any changes to it.
+
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
 {% endhint %}
