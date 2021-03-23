@@ -66,6 +66,14 @@ Yes, you are allowed to update the team before making the submission to the hack
 
 You can join/create a team before the submission deadline. Upon making the submission, your team will be finalized and you won't be able to make any changes to it.
 
+## How do I delete my Devfolio Account?
+
+You can delete your account from the Settings Tab while logged in to your Devfolio account. Refer to the `Settings Tab` for more details 👇🏻
+
+{% page-ref page="devfolio-profile/settings-tab.md" %}
+
+
+
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
 {% endhint %}
