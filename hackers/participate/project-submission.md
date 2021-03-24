@@ -4,6 +4,10 @@ Devfolio lets hackers make project submissions to describe the hacks they've bui
 
 ## Submitting Project \[Online Mode\]
 
+{% hint style="info" %}
+You can submit a project as an individual or as a team in `Online` Mode.
+{% endhint %}
+
 ### **Submit your project individually**
 
 ![](../../.gitbook/assets/20210202_103459634-2.gif)
@@ -17,6 +21,8 @@ Only team admin can submit the project on behalf of the whole team
 {% endhint %}
 
 ## Submitting Project \[Online With Application Review & Offline\]
+
+
 
 ### **Step 1\) RSVP Individually**
 
