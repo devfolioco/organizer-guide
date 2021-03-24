@@ -16,17 +16,25 @@ You can update your project from [https://devfolio.co/projects](https://devfolio
 
 ## **My friend cannot join my team. What could be the possible reason?**
 
-#### **1️⃣The Team code entered is invalid**
+### **General**
 
-Check the code and re-enter
+**👉🏻 The Team code entered is invalid:** Check the code and re-enter
 
-#### **2️⃣ Your friend has submitted application individually** 
+**👉🏻 Your friend is already a part of some team:** They can leave the existing team and join the new team!
 
-They can withdraw their application and join the team.
 
-#### **3️⃣ Your friend is already a part of some team** 
 
-They can leave the existing team and join the new team!
+### **Before Submitting the Team for Review**
+
+**👉🏻 Your friend has submitted the application individually:** They can withdraw their application and join the team.
+
+
+
+### After Submitting the Team for Review
+
+**👉🏻 Your friend has submitted the application individually:** You cannot edit teammates while your application is under review. You can edit your team after you've been accepted to the hackathon. 
+
+**Note:** Only accepted hackers will be able to join your accepted team. ****
 
 ## **Can I apply individually in a strictly Team Hackathon?**
 
