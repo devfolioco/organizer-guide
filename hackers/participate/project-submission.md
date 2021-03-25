@@ -2,6 +2,31 @@
 
 Devfolio lets hackers make project submissions to describe the hacks they've built over the course of the hackathon.
 
+## Fields included as Project Details
+
+![](../../.gitbook/assets/image%20%28131%29.png)
+
+\*\*\*\*
+
+![](../../.gitbook/assets/image%20%28127%29.png)
+
+* **Project Name**: The name of your project
+* **Tagline**: An elevator pitch of your project
+* **The problem it solves**: The aim and objectives of your project, and why should people use it?
+* **Challenges I ran into**: Any obstacles you overcame while building your project
+* **Technologies I used**: For eg. React, NodeJS, GraphQL, etc.
+* **Links**: Relevant links such as the website where your project is hosted, GitHub Repo, Playstore link for your app, or even Figma and Google Drive links.
+* **Video Demo**: Link to the video demoing your project \(preferably YouTube\)
+* **Pictures**: Add screenshots of your project.
+
+{% hint style="info" %}
+The first picture which you upload will be the cover image of your project.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28130%29.png)
+
+![Your project&apos;s card](../../.gitbook/assets/image%20%28128%29.png)
+
 ## Submitting Project \[Online Mode\]
 
 {% hint style="info" %}
