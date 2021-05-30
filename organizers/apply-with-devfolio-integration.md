@@ -7,7 +7,7 @@
 Include the script once, right before the closing &lt;/body&gt; tag.
 
 ```markup
-<script defer async src="<https://apply.devfolio.co/v2/sdk.js>"></script>
+<script defer async src="https://apply.devfolio.co/v2/sdk.js"></script>
 ```
 
 **Usage with React**
@@ -17,7 +17,7 @@ If you're using React, load the SDK script dynamically for every page that has t
 ```jsx
 React.useEffect(() => {
     const script = document.createElement('script');
-    script.src = '<https://apply.devfolio.co/v2/sdk.js>';
+    script.src = 'https://apply.devfolio.co/v2/sdk.js';
     script.async = true;
     script.defer = true;
     document.body.appendChild(script);
