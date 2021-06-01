@@ -33,8 +33,8 @@
 * [Wrapping up the Hackathon](organizers/wrapping-up/README.md)
   * [Feedback Tab](organizers/wrapping-up/feedback-tab.md)
   * [Announcing the Winners](organizers/wrapping-up/announcing-the-winners.md)
-* [FAQs for Organizers](organizers/faqs-for-organizers.md)
 * [Apply with Devfolio Integration](organizers/apply-with-devfolio-integration.md)
+* [FAQs for Organizers](organizers/faqs-for-organizers.md)
 
 ## Docs for Hackers <a id="hackers"></a>
 
