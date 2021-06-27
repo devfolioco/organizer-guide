@@ -8,6 +8,10 @@ The Organizer Dashboard is visible as soon as your hackathon is verified by Devf
 
 You can extend the RSVP deadline in the Admin Tab, and send out an announcement to the accepted hackers to RSVP if they haven't yet. 
 
+
+
+You can also choose to RSVP them yourself from the Admin Tab. Start searching for the team or the hacker to reveal the Status section, and click on the toggle to RSVP them.
+
 {% page-ref page="organizer-dashboard/admin-tab.md" %}
 
 ## **Can we extend the registration deadline after it starts?**
