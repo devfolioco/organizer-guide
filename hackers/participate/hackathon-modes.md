@@ -1,4 +1,4 @@
-# Types of Hackathon Modes
+# 📃 Hackathon Modes
 
 \[TL;DR\] The hackathons on Devfolio are set up in one of the following modes:
 

@@ -1,4 +1,4 @@
-# View Submissions
+# 👀 View Submissions
 
 All submissions are collated in the `Submissions` tab on the dedicated microsite of the hackathon.
 

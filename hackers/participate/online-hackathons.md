@@ -1,4 +1,4 @@
-# Participating in Online Hackathons
+# 🔓 Participating in Online Hackathons
 
 In online hackathons, you can directly apply to them and straightaway be eligible for submissions during the hackathon submission period.
 

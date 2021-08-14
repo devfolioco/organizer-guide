@@ -1,4 +1,4 @@
-# Create/Join a Team
+# 🤼‍♂️ Create/Join a Team
 
 In different hackathon modes, the team creating and joining process is similar but the way it looks on dashboard is different.
 

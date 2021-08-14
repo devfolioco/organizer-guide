@@ -1,4 +1,4 @@
-# Applying To Online With Application Review Hackathons
+# 🔐 Applying To Online With Application Review Hackathons
 
 Hackathons setup in `Online With Application Review` mode are strictly team hackathons.
 
