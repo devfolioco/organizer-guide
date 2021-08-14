@@ -2,12 +2,12 @@
 
 * [Devfolio Docs](README.md)
 
-## Introduction
+## 👋 Introduction
 
 * [Why Devfolio?](introduction/getting-started.md)
 * [Hackathon Modes](introduction/hackathon-modes.md)
 
-## Docs for Organizers <a id="organizers"></a>
+## 🤹‍♂️ Docs for Organizers <a id="organizers"></a>
 
 * [Setting up your Hackathon](organizers/setup/README.md)
   * [Getting Started](organizers/setup/getting-started.md)
@@ -36,7 +36,7 @@
 * [Apply with Devfolio Integration](organizers/apply-with-devfolio-integration.md)
 * [FAQs for Organizers](organizers/faqs-for-organizers.md)
 
-## Docs for Hackers <a id="hackers"></a>
+## 👨‍💻 Docs for Hackers <a id="hackers"></a>
 
 * [Landing Page](hackers/landing-page.md)
 * [Your Devfolio Profile](hackers/devfolio-profile/README.md)
