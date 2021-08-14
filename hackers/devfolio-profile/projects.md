@@ -4,7 +4,7 @@ description: "Add a project to showcase on your Devfolio profile \U0001F31F"
 
 # 💪 Projects Tab
 
-### Adding a Project
+## Adding a Project
 
 ![](../../.gitbook/assets/ezgif-4-e03fa52d9494.gif)
 
@@ -19,7 +19,7 @@ Here's the list of fields you'll be provided to fill in
 * Video Demo
 * Pictures
 
-### Project Details Page
+## Project Details Page
 
 Your project can be accessed via the `Project Tab` or the `My Devfolio Tab`
 
@@ -27,7 +27,7 @@ Your project can be accessed via the `Project Tab` or the `My Devfolio Tab`
 
 ![](../../.gitbook/assets/image%20%2888%29.png)
 
-### Project Stats
+## Project Stats
 
 You can check the Views, Likes, and Comments of your project once you've uploaded it.
 
@@ -37,7 +37,7 @@ You can check the Views, Likes, and Comments of your project once you've uploade
 
 You can share your project on Twitter or LinkedIn directly, or copy the link to
 
-### Update Project
+## Update Project
 
 Through the 'Project' tab, you can even update your projects and can tell your project viewers about the recent updates you made.
 
