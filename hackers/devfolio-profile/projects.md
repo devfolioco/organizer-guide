@@ -2,7 +2,7 @@
 description: "Add a project to showcase on your Devfolio profile \U0001F31F"
 ---
 
-# Projects Tab
+# 💪 Projects Tab
 
 ### Adding a Project
 

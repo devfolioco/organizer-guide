@@ -2,7 +2,7 @@
 description: "Get Started with Devfolio \U0001F680"
 ---
 
-# Signing Up
+# 🤘 Signing Up
 
 ## Getting Started
 

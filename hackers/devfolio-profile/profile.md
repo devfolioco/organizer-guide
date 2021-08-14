@@ -2,11 +2,11 @@
 description: "Showcase your projects, skills, and experience on your Devfolio Profile \U0001F4AA\U0001F3FB"
 ---
 
-# Profile Tab
+# 😄 Profile Tab
 
 Your profile is public by default. If you wish to make it private, you can do so in the Settings Tab
 
-{% page-ref page="settings-tab.md" %}
+{% page-ref page="settings.md" %}
 
 ### 
 

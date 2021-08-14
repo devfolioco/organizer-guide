@@ -12,7 +12,7 @@ If you are participating as a team then the submissions can only be made by the 
 
 You can update your project from [https://devfolio.co/projects](https://devfolio.co/projects). Any updates made will show up in the project history. Learn more about it here 👇🏻
 
-{% page-ref page="devfolio-profile/projects-tab.md" %}
+{% page-ref page="devfolio-profile/projects.md" %}
 
 ## **My friend cannot join my team. What could be the possible reason?**
 
@@ -78,7 +78,7 @@ You can join/create a team before the submission deadline. Upon making the submi
 
 You can delete your account from the Settings Tab while logged in to your Devfolio account. Refer to the `Settings Tab` for more details 👇🏻
 
-{% page-ref page="devfolio-profile/settings-tab.md" %}
+{% page-ref page="devfolio-profile/settings.md" %}
 
 
 

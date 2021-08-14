@@ -2,7 +2,7 @@
 description: "Edit your username/password, find your Devfolio QR Code, make your profile private, delete your Devfolio Account \U0001F527"
 ---
 
-# Settings Tab
+# 🔧 Settings Tab
 
 You can find the `Settings` option in the drop-down after click on your profile in the top-right corner.
 

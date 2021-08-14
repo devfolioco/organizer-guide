@@ -2,7 +2,7 @@
 description: "Take the Devfolio Quiz and earn yourself a badge! \U0001F3C5"
 ---
 
-# Badges Tab
+# 🏅 Badges Tab
 
 ![](../../.gitbook/assets/image%20%28111%29.png)
 

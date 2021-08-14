@@ -2,7 +2,7 @@
 description: "Your Devfolio Profile Page \U0001F929"
 ---
 
-# My Devfolio Tab
+# 😍 My Devfolio Tab
 
 Once you add all the relevant data about yourself, Devfolio provides you with a Profile Page 👇
 

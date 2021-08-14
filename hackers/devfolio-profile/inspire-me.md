@@ -2,7 +2,7 @@
 description: "Confused about what to build? Devfolio has got you covered! \U0001F91D\U0001F3FB"
 ---
 
-# Inspire Me
+# 💡 Inspire Me
 
 {% hint style="info" %}
 `Inspire me` is available under the 'Project' tab.
