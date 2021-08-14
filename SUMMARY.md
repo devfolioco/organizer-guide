@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Devfolio Docs](README.md)
+* [📚 Devfolio Docs](README.md)
 
 ## 👋 Introduction
 
