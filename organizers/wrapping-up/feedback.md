@@ -4,7 +4,7 @@ description: >-
   Feedback Tab helps you keep track of that.
 ---
 
-# Feedback Tab
+# ✍ Feedback Tab
 
 {% hint style="info" %}
 The Feedback Tab is visible **after the end of your hackathon's submission deadline**

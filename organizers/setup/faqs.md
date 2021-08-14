@@ -1,4 +1,4 @@
-# ❓ FAQs Tab
+# 🙋‍♂️ FAQs Tab
 
 It's always better to have a bunch of FAQs displayed on your dashboard to resolve the most common queries amongst hackers.
 

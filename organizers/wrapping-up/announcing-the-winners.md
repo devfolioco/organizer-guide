@@ -4,7 +4,7 @@ description: >-
   microsite.
 ---
 
-# Announcing the Winners
+# 📢 Announcing the Winners
 
 {% hint style="warning" %}
 The winners can be added only by the creator of the hackathon.

@@ -1,4 +1,4 @@
-# Fares Tab
+# 🛫 Fares Tab
 
 {% hint style="info" %}
 This tab is visible only in the `Offline` Hackathon Mode

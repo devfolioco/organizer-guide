@@ -1,2 +1,2 @@
-# Wrapping up the Hackathon
+# 💫 Wrapping up the Hackathon
 

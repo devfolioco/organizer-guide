@@ -1,4 +1,4 @@
-# Update your Hackathon Details
+# 🔼 Update your Hackathon Details
 
 {% hint style="warning" %}
 The update button will only be visible to the creator of the hackathon.

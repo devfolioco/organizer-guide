@@ -1,4 +1,4 @@
-# Logistics Tab
+# 📚 Logistics Tab
 
 {% hint style="info" %}
 The Logistics tab is visible only in the `Online with Application Review` and `Offline` mode

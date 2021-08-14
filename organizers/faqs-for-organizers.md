@@ -1,4 +1,4 @@
-# FAQs for Organizers
+# ❓ FAQs for Organizers
 
 ## When can we access the Devfolio portal for registrations?
 
