@@ -12,13 +12,13 @@ You can extend the RSVP deadline in the Admin Tab, and send out an announcement 
 
 You can also choose to RSVP them yourself from the Admin Tab. Start searching for the team or the hacker to reveal the Status section, and click on the toggle to RSVP them.
 
-{% page-ref page="organizer-dashboard/admin-tab.md" %}
+{% page-ref page="dashboard/admin.md" %}
 
 ## **Can we extend the registration deadline after it starts?**
 
 You can extend the application deadline from the Admin Tab in your Organizer Dashboard.
 
-{% page-ref page="organizer-dashboard/admin-tab.md" %}
+{% page-ref page="dashboard/admin.md" %}
 
 ## **Can we extend the project submission deadline?**
 
@@ -28,7 +28,7 @@ You can extend the project submission deadline from the Admin Tab in your Organi
 But make sure to extend it before the initial submission deadline passes!
 {% endhint %}
 
-{% page-ref page="organizer-dashboard/admin-tab.md" %}
+{% page-ref page="dashboard/admin.md" %}
 
 ## **I cannot add teammates in my organizer dashboard.**
 
@@ -48,7 +48,7 @@ You can add it as a track to your hackathon via the `Prizes Tab`. This will enab
 
 Refer to the documentation for the same 👇🏻
 
-{% page-ref page="setup/prizes-tab.md" %}
+{% page-ref page="setup/prizes.md" %}
 
 ## While setting up my hackathon, I had specified the minimum number of team members. But I still see people submitting applications individually.
 

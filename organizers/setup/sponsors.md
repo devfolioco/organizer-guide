@@ -1,4 +1,4 @@
-# Sponsors Tab
+# 🤝 Sponsors Tab
 
 You can showcase the sponsors on your microsite by updating the Sponsors Tab.
 

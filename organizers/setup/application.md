@@ -1,4 +1,4 @@
-# Application Tab
+# 📄 Application Tab
 
 ## Using Built-in Fields for your Application
 

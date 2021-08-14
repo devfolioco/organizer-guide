@@ -1,4 +1,4 @@
-# Dates Tab
+# 📅 Dates Tab
 
 Fill in the relevant dates as per your hackathon's schedule.
 

@@ -1,4 +1,4 @@
-# Judges Tab
+# 👩‍⚖️ Judges Tab
 
 Showcase the stellar line-up of judges you have at your hackathon by publishing it on your dashboard.
 

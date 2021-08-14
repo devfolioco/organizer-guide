@@ -1,4 +1,4 @@
-# Overview Tab
+# 📊 Overview Tab
 
 The `Overview Tab` helps you track the results of your outreach efforts by providing application and profile submission metric for each day. This means if you see a spike in applications on a particular day, a specific outreach campaign has worked!
 

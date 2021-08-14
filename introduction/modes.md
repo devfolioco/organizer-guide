@@ -1,4 +1,4 @@
-# Hackathon Modes
+# 📃 Hackathon Modes
 
 Devfolio offers three different hackathon modes 
 

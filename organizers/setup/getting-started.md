@@ -1,4 +1,4 @@
-# Getting Started
+# 🏁 Getting Started
 
 To start setting up your hackathon, click on `Organizer Dashboard` from the dropdown located at the top-right corner.
 
@@ -16,7 +16,7 @@ Once you select a Hackathon mode, you **won't be able to change** it later!
 
 If you want to know more about the Hackathon modes, check out the documentation here 👇🏻
 
-{% page-ref page="../../introduction/hackathon-modes.md" %}
+{% page-ref page="../../introduction/modes.md" %}
 
 
 

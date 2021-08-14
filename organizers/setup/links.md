@@ -1,4 +1,4 @@
-# Links Tab
+# 🔗 Links Tab
 
 All the relevant links regarding your hackathon should be filled here.
 

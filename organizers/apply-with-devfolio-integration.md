@@ -52,7 +52,7 @@ Even after adding the code, the button **won't be visible** right away. For it t
 
 | Name | Description | Value |
 | :--- | :--- | :--- |
-| data-hackathon-slug | The slug/key of your hackathon. Refer to the [Links Tab](setup/links-tab.md#devfolio-microsite-url) for more details | String |
+| data-hackathon-slug | The slug/key of your hackathon. Refer to the [Links Tab](setup/links.md#devfolio-microsite-url) for more details | String |
 | data-button-theme | Controls the appearance of the button. Refer to the screenshot below! | "light", "dark", "dark-inverted" |
 
 #### **Customisation via the `data-button-theme` attribute**

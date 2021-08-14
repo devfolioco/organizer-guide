@@ -1,4 +1,4 @@
-# Prizes Tab
+# 🏆 Prizes Tab
 
 Adding Prizes here is the best way of introducing Track Prizes in your Hackathon, so that if a hacker has built a project for a specific track, they can submit it to that once you add it here from your end.
 

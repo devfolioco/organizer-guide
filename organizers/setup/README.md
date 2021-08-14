@@ -1,2 +1,2 @@
-# Setting up your Hackathon
+# 🔨 Setting up your Hackathon
 

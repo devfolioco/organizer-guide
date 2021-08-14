@@ -1,4 +1,4 @@
-# Why Devfolio?
+# 🤔 Why Devfolio?
 
 ## Devfolio for Hackers 💻
 

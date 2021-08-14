@@ -1,4 +1,4 @@
-# Basics Tab
+# 📕 Basics Tab
 
 ![](../../.gitbook/assets/basic-details.gif)
 

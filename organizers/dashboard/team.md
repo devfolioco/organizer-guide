@@ -4,7 +4,7 @@ description: >-
   Dashboard here.
 ---
 
-# Team Tab
+# 🤼‍♂️ Team Tab
 
 {% hint style="info" %}
 The Team Tab will only be visible to the creator of the hackathon 

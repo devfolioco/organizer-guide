@@ -4,7 +4,7 @@ description: >-
   hackathon.
 ---
 
-# Admin Tab
+# 👑 Admin Tab
 
 ## Search Team and Hackers
 
