@@ -34,7 +34,7 @@
   * [✍ Feedback Tab](organizers/wrapping-up/feedback.md)
   * [📢 Announcing the Winners](organizers/wrapping-up/announcing-the-winners.md)
 * [✅ Apply with Devfolio Integration](organizers/apply-with-devfolio-integration.md)
-* [❓ FAQs for Organizers](organizers/faqs-for-organizers.md)
+* [❓ FAQs for Organizers](organizers/faqs.md)
 
 ## 👨‍💻 Docs for Hackers <a id="hackers"></a>
 
@@ -55,5 +55,5 @@
   * [📝 Project Submission](hackers/participate/project-submission.md)
   * [👀 View Submissions](hackers/participate/view-submissions.md)
   * [✍ Feedback Section](hackers/participate/feedback-section.md)
-* [FAQs for Hackers](hackers/faqs-for-hackers.md)
+* [❓ FAQs for Hackers](hackers/faqs.md)
 

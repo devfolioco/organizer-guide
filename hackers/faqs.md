@@ -2,7 +2,7 @@
 description: Frequently asked doubts and questions
 ---
 
-# FAQs for Hackers
+# ❓ FAQs for Hackers
 
 ## **Why my team members are unable to initiate submissions on Devfolio?**
 
