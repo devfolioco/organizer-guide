@@ -28,7 +28,7 @@ Now you ask, "What can I do on Devfolio? 🤔". Here ya go!
 
 Start to learn more about the hacker-end of the platform here 👇🏻
 
-## 🤹🏻‍♂️ Devfolio for Hackathon Organizers 
+## 🤹🏻‍♂️ Devfolio for Organizers 
 
 Devfolio is the result of a need for intuitive tools to manage community hackathons like [ETHIndia](http://ethindia.co/), [wmn;](https://wmn.community/) and [InOut](http://hackinout.co/) \(7 editions so far\) handcrafted and organized by the Devfolio team. And now we’d like to enable other hackathons as well to get to the next level with access to similar resources and our platform.
 
