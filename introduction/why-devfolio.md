@@ -10,13 +10,19 @@ Now you ask, "What can I do on Devfolio? 🤔". Here ya go!
 
 ![](../.gitbook/assets/image%20%28133%29.png)
 
+### 
+
 ### 🖼️ Build & Showcase your Portfolio
 
 ![](../.gitbook/assets/image%20%2887%29.png)
 
+### 
+
 ### 🏅 Test your skills & earn Devfolio badges 
 
 ![](../.gitbook/assets/image%20%2875%29.png)
+
+### 
 
 ### 💻 Showcase your previously built projects
 
