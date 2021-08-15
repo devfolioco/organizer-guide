@@ -1,13 +1,13 @@
 # 📃 Hackathon Modes
 
-### Devfolio offers three different hackathon modes 
+#### Devfolio offers three different hackathon modes 
 
 <table>
   <thead>
     <tr>
       <th style="text-align:center">Hackathon Mode</th>
       <th style="text-align:center">Suitable For</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Hackathon Flow</th>
       <th style="text-align:center">Application Screening Process</th>
     </tr>
   </thead>
@@ -60,4 +60,22 @@
     </tr>
   </tbody>
 </table>
+
+## 🎥 Hackathon Application Flow
+
+### 📜 Application Review Hackathons
+
+In Application Review hackathons, once hackers apply and subsequently submit their profiles for review, they await application decisions from the hackathon organizer. Once accepted for the hackathon, they are expected to confirm their participation by RSVPing and get themselves checked-in by the organizing team.
+
+{% embed url="https://www.youtube.com/watch?v=gVLQ3RyRrgo" %}
+
+
+
+### 🟢 Online Hackathons
+
+Once hackers apply and submit their profiles for online hackathons, they are all set to submit their projects during the submission period as either individuals or part of a team.
+
+{% embed url="https://www.youtube.com/watch?v=K0m4CHEXtcU" %}
+
+
 
