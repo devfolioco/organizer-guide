@@ -1,10 +1,8 @@
 # 📃 Hackathon Modes
 
-Devfolio offers three different hackathon modes 
+### Devfolio offers three different hackathon modes 
 
-* Offline
-* Online With Application Review
-* Online
+
 
 | Hackathon Mode | Description | Suitable For | Review Process |
 | :--- | :--- | :--- | :--- |
