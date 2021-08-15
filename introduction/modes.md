@@ -67,7 +67,7 @@
 
 In Application Review hackathons, once hackers apply and subsequently submit their profiles for review, they await application decisions from the hackathon organizer. Once accepted for the hackathon, they are expected to confirm their participation by RSVPing and get themselves checked-in by the organizing team.
 
-{% embed url="https://www.youtube.com/watch?v=gVLQ3RyRrgo" %}
+{% embed url="https://www.youtube.com/watch?v=gVLQ3RyRrgo" caption="Learn more about Offline and Online with Application Review Mode Flow" %}
 
 
 
@@ -75,7 +75,7 @@ In Application Review hackathons, once hackers apply and subsequently submit the
 
 Once hackers apply and submit their profiles for online hackathons, they are all set to submit their projects during the submission period as either individuals or part of a team.
 
-{% embed url="https://www.youtube.com/watch?v=K0m4CHEXtcU" %}
+{% embed url="https://www.youtube.com/watch?v=K0m4CHEXtcU" caption="Learn more about Online Mode Flow" %}
 
 
 
