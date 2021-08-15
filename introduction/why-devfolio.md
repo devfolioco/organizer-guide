@@ -8,7 +8,7 @@ Now you ask, "What can I do on Devfolio? 🤔". Here ya go!
 
 ### 🏆 Participate in hackathons & win 'em prizes 
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 ### 🖼️ Build & Showcase your Portfolio
 
@@ -24,7 +24,7 @@ Now you ask, "What can I do on Devfolio? 🤔". Here ya go!
 
 ### 💡 You are never short with ideas at Devfolio
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
 
 Start to learn more about the hacker-end of the platform here 👇🏻
 
