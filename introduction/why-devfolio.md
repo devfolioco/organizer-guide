@@ -52,11 +52,11 @@ Devfolio is the result of a need for intuitive tools to manage community hackath
 
 ### 📩 In-built email tool to write to your applicants
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 
 
-Start to learn more about the organizer-end of the platform here 👇🏻
+Learn all about the organizer-end of the platform here 👇🏻
 
 
 
