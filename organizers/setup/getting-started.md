@@ -14,7 +14,7 @@ Once you select a Hackathon mode, you **won't be able to change** it later!
 
 ![Start building your hackathon on the Organizer Dashboard](../../.gitbook/assets/organize-a-hackathon.gif)
 
-If you want to know more about the Hackathon modes, check out the documentation here 👇🏻
+If you want to know more about the **Hackathon modes**, check out the documentation here 👇🏻
 
 {% page-ref page="../../introduction/modes.md" %}
 
