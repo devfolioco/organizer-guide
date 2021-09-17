@@ -80,7 +80,15 @@ You can delete your account from the Settings Tab while logged in to your Devfol
 
 {% page-ref page="devfolio-profile/settings.md" %}
 
+## How do I stop receiving email announcements from a particular hackathon?
 
+1. Go to [https://devfolio.co/hackathons/applied](https://devfolio.co/hackathons/applied)
+2. Click on the hackathon to proceed to the dashboard
+3. Go to the Announcements Section and turn off the Email Notifications
+
+![Hackathon \(Online\)](../.gitbook/assets/image%20%28135%29.png)
+
+![Hackathon \(Online with Application Review\)](../.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
