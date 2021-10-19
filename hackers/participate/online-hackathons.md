@@ -4,7 +4,7 @@ In online hackathons, you can directly apply to them and straightaway be eligibl
 
 ### Filling out the Application
 
-![](../../.gitbook/assets/open_-1-.gif)
+![](../../.gitbook/assets/open\_\(1\).gif)
 
 Your application is successful only after you click on `Submit Application`
 
@@ -14,13 +14,13 @@ If you don't see this button, probably you should scroll and answer the required
 
 The dashboard will including the following things:
 
-* Timeline - Shows the timeline of the hackathon \(generally, starting, ending, and submission timings\)
+* Timeline - Shows the timeline of the hackathon (generally, starting, ending, and submission timings)
 * Announcements - Shows the announcements made by organizers
 * Prizes - Shows the prizes which a user may win and some related information
 * Submitting Solo - It shows the time remaining for the deadline and the option to upload and submit the project for judging.
-* Submitting In Team - It shows the time remaining for the deadline, an option to create/join a team \(if not done earlier\), and an option to upload and submit the project for judging.
+* Submitting In Team - It shows the time remaining for the deadline, an option to create/join a team (if not done earlier), and an option to upload and submit the project for judging.
 
-![](../../.gitbook/assets/ezgif.com-gif-maker%20%281%29.gif)
+![](<../../.gitbook/assets/ezgif.com-gif-maker (1).gif>)
 
 {% hint style="warning" %}
 The buttons will be enabled once the Submission period begins
@@ -28,7 +28,7 @@ The buttons will be enabled once the Submission period begins
 
 To know about creating/joining a team, refer to the docs here👇🏻
 
-{% page-ref page="create-join-a-team.md" %}
-
-
+{% content-ref url="create-join-a-team.md" %}
+[create-join-a-team.md](create-join-a-team.md)
+{% endcontent-ref %}
 

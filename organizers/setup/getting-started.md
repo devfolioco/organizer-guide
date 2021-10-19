@@ -16,7 +16,7 @@ Once you select a Hackathon mode, you **won't be able to change** it later!
 
 If you want to know more about the **Hackathon modes**, check out the documentation here 👇🏻
 
-{% page-ref page="../../introduction/modes.md" %}
-
-
+{% content-ref url="../../introduction/modes.md" %}
+[modes.md](../../introduction/modes.md)
+{% endcontent-ref %}
 

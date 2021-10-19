@@ -4,7 +4,7 @@
 
 #### Step 1: Add the script
 
-Include the script once, right before the closing &lt;/body&gt; tag.
+Include the script once, right before the closing \</body> tag.
 
 ```markup
 <script defer async src="https://apply.devfolio.co/v2/sdk.js"></script>
@@ -27,7 +27,7 @@ React.useEffect(() => {
 }, []);
 ```
 
-#### Step 2: Specify button element\(s\)
+#### Step 2: Specify button element(s)
 
 Copy and paste this code where you want the 'Apply with Devfolio' button to appear on your website.
 
@@ -50,16 +50,15 @@ Even after adding the code, the button **won't be visible** right away. For it t
 
 ### Button Settings
 
-| Name | Description | Value |
-| :--- | :--- | :--- |
-| data-hackathon-slug | The slug/key of your hackathon. Refer to the [Links Tab](setup/links.md#devfolio-microsite-url) for more details | String |
-| data-button-theme | Controls the appearance of the button. Refer to the screenshot below! | "light", "dark", "dark-inverted" |
+| Name                | Description                                                                                                      | Value                            |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| data-hackathon-slug | The slug/key of your hackathon. Refer to the [Links Tab](setup/links.md#devfolio-microsite-url) for more details | String                           |
+| data-button-theme   | Controls the appearance of the button. Refer to the screenshot below!                                            | "light", "dark", "dark-inverted" |
 
 #### **Customisation via the `data-button-theme` attribute**
 
-![Themes for Apply with Devfolio Button](../.gitbook/assets/image%20%28125%29.png)
+![Themes for Apply with Devfolio Button](<../.gitbook/assets/image (125).png>)
 
 {% hint style="danger" %}
 As a security measure, we disable the button's functionality over website addresses other than the one you specify in the hackathon's setup.
 {% endhint %}
-

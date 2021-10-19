@@ -12,11 +12,11 @@ The fields selected here are marked as mandatory! If you want to make them optio
 
 Here's how it will look like when the hacker fills out the application to your hackathon.
 
-![All the fields you selected above being asked for while filling out the application to your hackathon.](../../.gitbook/assets/image%20%2861%29.png)
+![All the fields you selected above being asked for while filling out the application to your hackathon.](<../../.gitbook/assets/image (60).png>)
 
 At times, the hackers may have already added some fields such as GitHub, LinkedIn links to their profile. So when they start filling out the application, the available details are directly taken from their profile and are not asked again while they fill out the application. The ones not available are then explicitly asked for.
 
-![Fields not available on the user&apos;s profile is then asked for to submit.](../../.gitbook/assets/image%20%2860%29.png)
+![Fields not available on the user's profile is then asked for to submit.](<../../.gitbook/assets/image (61).png>)
 
 ## Adding Custom Questions
 
@@ -36,13 +36,13 @@ Add the question you'd like to ask the hacker
 
 Results 👇🏻
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](<../../.gitbook/assets/image (118).png>)
 
 ### **Placeholder**
 
 Add a sample response to provide more context to the hacker.
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](<../../.gitbook/assets/image (119).png>)
 
 ### Hint
 
@@ -50,7 +50,7 @@ Some questions require more information to be provided. You can add it as a Hint
 
 Results 👇🏻
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](<../../.gitbook/assets/image (120).png>)
 
 {% hint style="warning" %}
 Make sure you check the `This is a required question` checkbox if you want to make the field compulsory
@@ -61,5 +61,4 @@ Make sure you check the `This is a required question` checkbox if you want to ma
 Below are two hackathons that you can apply to. Feel free to submit projects at these hackathons, being mindful of the content since they'll be publicly visible.
 
 * Online with Application Review: [https://awesome-hackathon.devfolio.co](https://awesome-hackathon.devfolio.co)
-* Online: [https://awesome-online-hackathon.devfolio.co/](https://awesome-online-hackathon.devfolio.co/)
-
+* Online: [https://awesome-online-hackathon.devfolio.co/](https://awesome-online-hackathon.devfolio.co)

@@ -6,19 +6,23 @@ The Organizer Dashboard is visible as soon as your hackathon is verified by Devf
 
 ## **Some participants missed their RSVP deadline and their status shows "Withdrawn". What should I do?**
 
-You can extend the RSVP deadline in the Admin Tab, and send out an announcement to the accepted hackers to RSVP if they haven't yet. 
+You can extend the RSVP deadline in the Admin Tab, and send out an announcement to the accepted hackers to RSVP if they haven't yet.&#x20;
 
 
 
 You can also choose to RSVP them yourself from the Admin Tab. Start searching for the team or the hacker to reveal the Status section, and click on the toggle to RSVP them.
 
-{% page-ref page="dashboard/admin.md" %}
+{% content-ref url="dashboard/admin.md" %}
+[admin.md](dashboard/admin.md)
+{% endcontent-ref %}
 
 ## **Can we extend the registration deadline after it starts?**
 
 You can extend the application deadline from the Admin Tab in your Organizer Dashboard.
 
-{% page-ref page="dashboard/admin.md" %}
+{% content-ref url="dashboard/admin.md" %}
+[admin.md](dashboard/admin.md)
+{% endcontent-ref %}
 
 ## **Can we extend the project submission deadline?**
 
@@ -28,7 +32,9 @@ You can extend the project submission deadline from the Admin Tab in your Organi
 But make sure to extend it before the initial submission deadline passes!
 {% endhint %}
 
-{% page-ref page="dashboard/admin.md" %}
+{% content-ref url="dashboard/admin.md" %}
+[admin.md](dashboard/admin.md)
+{% endcontent-ref %}
 
 ## **I cannot add teammates in my organizer dashboard.**
 
@@ -48,7 +54,9 @@ You can add it as a track to your hackathon via the `Prizes Tab`. This will enab
 
 Refer to the documentation for the same 👇🏻
 
-{% page-ref page="setup/prizes.md" %}
+{% content-ref url="setup/prizes.md" %}
+[prizes.md](setup/prizes.md)
+{% endcontent-ref %}
 
 ## While setting up my hackathon, I had specified the minimum number of team members. But I still see people submitting applications individually.
 
@@ -59,4 +67,3 @@ Hackers can submit their applications individually, and you can accept them as w
 {% hint style="info" %}
 If there are any other queries, reach out to us at `hello@devfolio.co`
 {% endhint %}
-

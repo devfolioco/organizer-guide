@@ -6,25 +6,24 @@ You can apply to such hackathons individually and can get accepted, but in order
 
 ## Applying as an Individual
 
-![](../../.gitbook/assets/apply.gif)
+![](../../.gitbook/assets/Apply.gif)
 
 ## Apply as a Team
 
 ### Apply for the hackathon & create a team
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eedfeaa-59fb-441f-9c9e-97978ceb21bf/apply\_offline\_team.gif](../../.gitbook/assets/apply_offline_team.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eedfeaa-59fb-441f-9c9e-97978ceb21bf/apply\_offline\_team.gif](../../.gitbook/assets/apply\_offline\_team.gif)
 
 ### Ask your fellow hacker to join the team
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2159865f-6f09-46ae-9b69-9568ba189280/join-team\_offline.gif](../../.gitbook/assets/join-team_offline.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2159865f-6f09-46ae-9b69-9568ba189280/join-team\_offline.gif](../../.gitbook/assets/join-team\_offline.gif)
 
 ### Team admin can now submit the team for review
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](<../../.gitbook/assets/image (106).png>)
 
 Once accepted, you can RSVP within the time period allotted so that the organizer can check you in!
 
 {% hint style="warning" %}
 All the team members of the hackathon need to RSVP and be checked-in. Without that, the team won't be able to make a submission.
 {% endhint %}
-

@@ -1,19 +1,21 @@
 # 📃 Hackathon Modes
 
-\[TL;DR\] The hackathons on Devfolio are set up in one of the following modes:
+\[TL;DR] The hackathons on Devfolio are set up in one of the following modes:
 
-* `Offline Hackathon`: This will be an on-site hackathon. Your application will be then reviewed and upon acceptance, you will have to be physically present at the venue. 
-* `Online With Application Review`: Your application will first be reviewed by the organizer and you will be accepted/not accepted/waitlisted on the basis of that. Upon getting accepted, you will first have to RSVP yes, get checked-in by the organizers and then submit a project to the hackathon as a team. 
+* `Offline Hackathon`: This will be an on-site hackathon. Your application will be then reviewed and upon acceptance, you will have to be physically present at the venue.\
+
+* `Online With Application Review`: Your application will first be reviewed by the organizer and you will be accepted/not accepted/waitlisted on the basis of that. Upon getting accepted, you will first have to RSVP yes, get checked-in by the organizers and then submit a project to the hackathon as a team.\
+
 * `Online Hackathon`: Once you submit your application to the hackathon, you will be eligible to make a submission during the submission period without any review phase.
 
 ### Online Hackathon
 
 * Just participate and jump to the dashboard
-* Build and submit individually or as a team \(your wish!\)
+* Build and submit individually or as a team (your wish!)
 
 Here it shows how it looks:
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](<../../.gitbook/assets/image (76).png>)
 
 {% hint style="info" %}
 At the bottom of the hackathon card.,if the button says `Participate`, it means it is an `Online` hackathon.
@@ -27,7 +29,7 @@ At the bottom of the hackathon card.,if the button says `Participate`, it means 
 * Get checked-in by the hackathon organizer
 * Build and submit as a team
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](<../../.gitbook/assets/image (77).png>)
 
 {% hint style="info" %}
 At the bottom of the hackathon card, if the button says `Apply now`, and there's a green circle on top, it means it's an `Online with Application Review` hackathon.
@@ -40,9 +42,8 @@ At the bottom of the hackathon card, if the button says `Apply now`, and there's
 * Visit the venue and work on your hack
 * Build and submit as a team
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](<../../.gitbook/assets/image (78).png>)
 
 {% hint style="info" %}
 At the bottom of the hackathon card, if the button says `Apply now`, and there's a colour bar on top, it means it is an "Offline" hackathon.
 {% endhint %}
-

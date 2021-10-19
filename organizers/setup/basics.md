@@ -6,11 +6,11 @@ These details will be visible on the subdomain hosted once the hackathon is live
 
 * Name - Name of the hackathon
 * Tagline
-* About \(Markdown Supported\)
+* About (Markdown Supported)
 * Approximate participants
 * Minimum Team Size Allowed
 * Maximum Team Size Allowed
-* Where the hackathon is happening? \(Only for offline hackathons\)
+* Where the hackathon is happening? (Only for offline hackathons)
 
 {% hint style="info" %}
 The `About` section defines your hackathon mission, vision, and other details, so make sure to fill it properly. Devfolio supports markdown for a better view.
@@ -18,5 +18,4 @@ The `About` section defines your hackathon mission, vision, and other details, s
 
 ## Result
 
-![](../../.gitbook/assets/image%20%2862%29.png)
-
+![](<../../.gitbook/assets/image (63).png>)

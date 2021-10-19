@@ -9,21 +9,21 @@ The **status of the applicant** can be:
 * `Profile Submitted`: They have only applied to your hackathon
 * `Project Submitted`: They have applied as well as submitted their project to your hackathon
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](<../../.gitbook/assets/image (24).png>)
 
 ## Offline and Online with Application Review Mode
 
-Here, you can review individual, and team profiles to extend invitations to them to attend your hackathon \(accept\), decline their application \(reject\) or waitlist them. You can apply various filters to help you in the process.
+Here, you can review individual, and team profiles to extend invitations to them to attend your hackathon (accept), decline their application (reject) or waitlist them. You can apply various filters to help you in the process.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](<../../.gitbook/assets/image (25).png>)
 
 **Filters:**
 
 * Country
 * State
 * City
-* Gender \(if your hackathon is gender-specific, this could help you review easier\)
-* Filter by College \(If your hackathon is college-specific\)
+* Gender (if your hackathon is gender-specific, this could help you review easier)
+* Filter by College (If your hackathon is college-specific)
 
 The **status of the applicant** can be:
 
@@ -38,7 +38,7 @@ The **status of the applicant** can be:
 
 Upon clicking on an application, you can see all the relevant data required to make an invitation decision and to accept/reject/waitlist them on the basis of it.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](<../../.gitbook/assets/image (26).png>)
 
 ### Accept
 
@@ -51,7 +51,7 @@ Click on `Accept` when:
 The hacker won't receive any email or notification and you can still change your mind.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](<../../.gitbook/assets/image (27).png>)
 
 In order to confirm the acceptance, click on `Send Acceptance Mail`, visible on top of the individual application.
 
@@ -72,7 +72,7 @@ Click on `Reject` when:
 The hacker won't receive any email or notification and you can still change your mind.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](<../../.gitbook/assets/image (28).png>)
 
 In order to confirm the non-acceptance, click on `Send Rejection Mail`, visible on top of the individual application.
 
@@ -84,23 +84,22 @@ Upon doing so, the hacker will be sent a non-acceptance Email and the process is
 
 Click on `Waitlist` when:
 
-* You are not sure about the application \(whether to accept or reject\)
+* You are not sure about the application (whether to accept or reject)
 
 {% hint style="warning" %}
 Marking someone as ‘Waitlisted’ immediately notifies them of their waitlisted status on their Hacker Dashboard.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](<../../.gitbook/assets/image (29).png>)
 
 ### Sending Acceptance/Rejection Email in Bulk
 
 If you wish to send **permanent** acceptance/rejection emails in bulk after shortlisting the applications, you can do that using the `Send acceptance emails` and `Send rejection mails` buttons, available at the start of the Review tab.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (30).png>)
 
 ### Adding notes for reference
 
 You can add comments as organizers for personal reference or if multiple organizers are reviewing the application and you have something, in particular, to describe the application.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
-
+![](<../../.gitbook/assets/image (31).png>)

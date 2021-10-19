@@ -12,7 +12,9 @@ If you are participating as a team then the submissions can only be made by the 
 
 You can update your project from [https://devfolio.co/projects](https://devfolio.co/projects). Any updates made will show up in the project history. Learn more about it here 👇🏻
 
-{% page-ref page="devfolio-profile/projects.md" %}
+{% content-ref url="devfolio-profile/projects.md" %}
+[projects.md](devfolio-profile/projects.md)
+{% endcontent-ref %}
 
 ## **My friend cannot join my team. What could be the possible reason?**
 
@@ -20,21 +22,21 @@ You can update your project from [https://devfolio.co/projects](https://devfolio
 
 **👉🏻 The Team code entered is invalid:** Check the code and re-enter
 
-**👉🏻 Your friend is already a part of some team:** They can leave the existing team and join the new team!
+**👉🏻 Your friend is already a part of some team: **They can leave the existing team and join the new team!
 
 
 
 ### **Before Submitting the Team for Review**
 
-**👉🏻 Your friend has submitted the application individually:** They can withdraw their application and join the team.
+**👉🏻 Your friend has submitted the application individually: **They can withdraw their application and join the team.
 
 
 
 ### After Submitting the Team for Review
 
-**👉🏻 Your friend has submitted the application individually:** You cannot edit teammates while your application is under review. You can edit your team after you've been accepted to the hackathon. 
+**👉🏻 Your friend has submitted the application individually: **You cannot edit teammates while your application is under review. You can edit your team after you've been accepted to the hackathon.&#x20;
 
-**Note:** Only accepted hackers will be able to join your accepted team. ****
+**Note:** Only accepted hackers will be able to join your accepted team.** **
 
 ## **Can I apply individually in a strictly Team Hackathon?**
 
@@ -48,7 +50,9 @@ To submit a profile for review, it is important and compulsory to complete the a
 
 The submissions are always visible on the `Submissions` tab under any particular hackathon. Click on the specific submission card to explore the project! Read more about it here 👇🏻
 
-{% page-ref page="participate/view-submissions.md" %}
+{% content-ref url="participate/view-submissions.md" %}
+[view-submissions.md](participate/view-submissions.md)
+{% endcontent-ref %}
 
 ## **Where can I see the winners?**
 
@@ -60,7 +64,7 @@ When the hackathon ends, check your dashboard and there you will find a custom c
 
 ## **Can I delete a project uploaded on Devfolio?**
 
-You cannot delete a project submitted to a hackathon. If you wish to delete a side-project \(projects uploaded on [https://devfolio.co/projects](https://devfolio.co/projects)\), you can reach out to us at [help@devfolio.co](mailto:help@devfolio.co) while stating the reason for doing so.
+You cannot delete a project submitted to a hackathon. If you wish to delete a side-project (projects uploaded on [https://devfolio.co/projects](https://devfolio.co/projects)), you can reach out to us at [help@devfolio.co](mailto:help@devfolio.co) while stating the reason for doing so.
 
 ## **What if someone has withdrawn by mistake and wants to join the hackathon again?**
 
@@ -78,7 +82,9 @@ You can join/create a team before the submission deadline. Upon making the submi
 
 You can delete your account from the Settings Tab while logged in to your Devfolio account. Refer to the `Settings Tab` for more details 👇🏻
 
-{% page-ref page="devfolio-profile/settings.md" %}
+{% content-ref url="devfolio-profile/settings.md" %}
+[settings.md](devfolio-profile/settings.md)
+{% endcontent-ref %}
 
 ## How do I stop receiving email announcements from a particular hackathon?
 
@@ -86,11 +92,10 @@ You can delete your account from the Settings Tab while logged in to your Devfol
 2. Click on the hackathon to proceed to the dashboard
 3. Go to the Announcements Section and turn off the Email Notifications
 
-![Hackathon \(Online\)](../.gitbook/assets/image%20%28135%29.png)
+![Hackathon (Online)](<../.gitbook/assets/image (137).png>)
 
-![Hackathon \(Online with Application Review\)](../.gitbook/assets/image%20%28136%29.png)
+![Hackathon (Online with Application Review)](<../.gitbook/assets/image (135).png>)
 
 {% hint style="info" %}
 If there are any other queries, reach out to us at [hello@devfolio.co](mailto:hello@devfolio.co)
 {% endhint %}
-

@@ -8,13 +8,13 @@ You can search for submissions with the name of the project, team, or usernames 
 
 ### Project Page
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](<../../.gitbook/assets/image (107).png>)
 
 A unique URL is generated for each submission. The project submission page has the details filled in by the hacker such as the purpose of their project, challenges faced, technologies used, screenshots/video links, and other important links such as GitHub, Project website, Play Store, etc.
 
 ### Upvote & Comment on Projects
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](<../../.gitbook/assets/image (110).png>)
 
 Visit the particular submission and you will find an option to upvote and comment on it. The upvotes and comments are publicly visible.
 
@@ -22,5 +22,4 @@ Visit the particular submission and you will find an option to upvote and commen
 
 As and when the hackers make any updates to the project, it shows up as a timeline on their submission page
 
-![](../../.gitbook/assets/image%20%2872%29.png)
-
+![](<../../.gitbook/assets/image (109).png>)

@@ -33,5 +33,4 @@ If the logo doesn't show up as expected, you can edit it over here.
 
 ## Results
 
-![](../../.gitbook/assets/image%20%28122%29.png)
-
+![](<../../.gitbook/assets/image (121).png>)

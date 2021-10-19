@@ -14,21 +14,21 @@ Hackers can be checked-in by entering their:
 * Username
 * Email ID
 * Team name in the format: `team: team-name`
-* QR Code \(well suited for Offline Hackathons\)
+* QR Code (well suited for Offline Hackathons)
 
 The hackers can access their QR code which is sent over to the hackers in their RSVP confirmation email or accessible on the hacker dashboard on the URL: [https://devfolio.co/settings](https://devfolio.co/settings%E2%80%8B)
 
-![Desktop View](../../../.gitbook/assets/image%20%286%29.png)
+![Desktop View](<../../../.gitbook/assets/image (42).png>)
 
-![Phone View](../../../.gitbook/assets/image%20%2815%29.png)
+![Phone View](<../../../.gitbook/assets/image (41).png>)
 
 ## Checking-in
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](<../../../.gitbook/assets/image (43).png>)
 
 Once their profile shows up, as shown above, they can be marked 'Check-in' by the volunteer.
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](<../../../.gitbook/assets/image (44).png>)
 
 {% hint style="warning" %}
 An option to undo the action will briefly show up in the top left corner, which, if ignored, will make the 'Check-in' **irreversible**.
@@ -40,7 +40,7 @@ If your hackathon happens to have participants below the age of 18, it is always
 
 To help you keep track of that, you will have to check the `Consent Form Submitted` field in order to proceed to check-in.
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](<../../../.gitbook/assets/image (45).png>)
 
 #### Points to note:
 
@@ -51,4 +51,3 @@ To help you keep track of that, you will have to check the `Consent Form Submitt
 * Since only hackers who have confirmed their intention of attending the hackathon are meant to attend it, only RSVP hackers will show up in the 'Volunteer' tab.
 * If a hacker has forgotten to RSVP the deadline can be extended individually by entering his/her details in the 'Admin' tab on the dashboard.
 * Hackers who haven't submitted their profile for review, haven't had their profile reviewed, or have received rejection emails can't be checked-in.
-

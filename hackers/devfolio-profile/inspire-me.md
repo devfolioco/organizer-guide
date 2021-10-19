@@ -1,5 +1,5 @@
 ---
-description: "Confused about what to build? Devfolio has got you covered! \U0001F91D\U0001F3FB"
+description: Confused about what to build? Devfolio has got you covered! 🤝🏻
 ---
 
 # 💡 Inspire Me
@@ -21,11 +21,10 @@ You will be able to do the following things:
 
 Feel the rush of energy to start working on the project? Choose a name of the project and get crackin'
 
-![](../../.gitbook/assets/start_working.gif)
+![](../../.gitbook/assets/Start\_working.gif)
 
 ## Submitting an idea
 
 You can submit an idea, and once it is verified from Devfolio, it will show up in the list of ideas.
 
-![](../../.gitbook/assets/submit_idea.gif)
-
+![](../../.gitbook/assets/submit\_idea.gif)

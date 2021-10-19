@@ -1,12 +1,14 @@
 ---
-description: "Edit your username/password, find your Devfolio QR Code, make your profile private, delete your Devfolio Account \U0001F527"
+description: >-
+  Edit your username/password, find your Devfolio QR Code, make your profile
+  private, delete your Devfolio Account 🔧
 ---
 
 # 🔧 Settings Tab
 
 You can find the `Settings` option in the drop-down after click on your profile in the top-right corner.
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](<../../.gitbook/assets/image (96).png>)
 
 In the settings tab, you can:
 
@@ -15,7 +17,7 @@ In the settings tab, you can:
 * Change password
 * Make your Devfolio Profile Private
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](<../../.gitbook/assets/image (98).png>)
 
 ## **My Devfolio QR Code**
 
@@ -31,7 +33,5 @@ Enter your Email ID registered on Devfolio to confirm your account, and proceed 
 Beware! This step will result in the permanent deletion of your Devfolio account.
 {% endhint %}
 
-![](../../.gitbook/assets/ezgif.com-gif-maker%20%282%29.gif)
-
-
+![](<../../.gitbook/assets/ezgif.com-gif-maker (2).gif>)
 
