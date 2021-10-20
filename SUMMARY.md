@@ -33,6 +33,7 @@
 * [💫 Wrapping up the Hackathon](organizers/wrapping-up/README.md)
   * [✍ Feedback Tab](organizers/wrapping-up/feedback.md)
   * [📢 Announcing the Winners](organizers/wrapping-up/announcing-the-winners.md)
+  * [👕 Schwags for your Hackathon](organizers/wrapping-up/schwags-for-your-hackathon.md)
 * [✅ Apply with Devfolio Integration](organizers/apply-with-devfolio-integration.md)
 * [❓ FAQs for Organizers](organizers/faqs.md)
 
