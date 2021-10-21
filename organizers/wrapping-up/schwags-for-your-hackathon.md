@@ -10,13 +10,25 @@ The Schwags section will be visible in the Logistics Tab as soon as your hackath
 
 It's time to reward the winners and organizers of your hackathon!&#x20;
 
-Based on the number of new users your hackathon has brought to Devfolio, the schwag quantity is allotted as shown below 👇🏻
+## Criteria for Schwags
+
+{% hint style="info" %}
+The quantity of schwag your hackathon is eligible for is determined by the **number of new users** your hackathon has brought onto Devfolio.&#x20;
+{% endhint %}
+
+In Devfolio's journey of finding and enabling talented builders to be better than ever, hackathons are the way to go for us. So, we reward the organizers with more schwag at their hackathon for their extra push in their marketing efforts, which onboards more builders on Devfolio.
+
+Based on the criteria, the schwag quantity is allotted as shown below 👇🏻
 
 ![](<../../.gitbook/assets/image (139).png>)
 
-###
+## Send out schwag forms via Devfolio
 
 ### 1) Add the teams to the Winners Section
+
+{% hint style="info" %}
+Make sure you declare the winners on Devfolio before adding them here. Learn how to declare winners [here](announcing-the-winners.md).
+{% endhint %}
 
 ![](<../../.gitbook/assets/Add teams.gif>)
 
